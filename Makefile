@@ -14,7 +14,7 @@ initial: ## initial
 	sudo npm install -g hexo-cli
 	npm install
 
-priview: ## preview
+preview: ## preview
 	hexo server
 
 generate: ## generate
