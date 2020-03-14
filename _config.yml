@@ -101,7 +101,7 @@ deploy:
   type: git
   repo: https://github.com/yianbau/yianbau.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+  branch: master
 
 search:
   path: search.json
