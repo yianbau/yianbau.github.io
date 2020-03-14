@@ -10,15 +10,15 @@ help: ## This help.
 
 .DEFAULT_GOAL := help
 
-initial:
+initial: ## initial
 	sudo npm install -g hexo-cli
 	npm install
 
-priview:
+priview: ## preview
 	hexo server
 
-generate:
+generate: ## generate
 	hexo clean && hexo g
 
-deploy:
+deploy: ## deploy
 	hexo clean && hexo deploy
