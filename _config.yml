@@ -93,7 +93,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Annie
+#theme: Annie
+theme: edinburgh
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -113,3 +114,9 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+# Header
+menu:
+  About: /about
+  Instagram: https://www.instagram.com/yianbau/
+  Facebook: https://www.facebook.com/yianbauofficial/
