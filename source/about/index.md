@@ -586,7 +586,7 @@ type: about
 </div>
 
 - 廣告
-  - 2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算~划算~
+  - [2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算\~划算\~](/2020/03/22/toyota-2016/)
   - 2018 DR.WU x 趙又廷 《人生劇場Refresh 第一話》
   - 2018 DR.WU x 趙又廷 《人生劇場Refresh 最終話》
 
@@ -612,7 +612,7 @@ type: about
     <tr>
       <th style="text-align: center;vertical-align: middle;">2018</th>
       <td> </td>
-      <td>《樂是美麗分外紅—I POP 到底》</td>
+      <td> <a href="https://issuu.com/794816/docs/ilovepdf_merged-ilovepdf-compressed" target="_blank">《樂是美麗分外紅—I POP 到底》</a></td>
       <td>導演</td>
       <td> </td>
     </tr> 
