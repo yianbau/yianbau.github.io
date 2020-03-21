@@ -8,6 +8,8 @@ type: about
 
 鮑奕安（英文名：Yian Bau，1987年4月9日），臺灣男演員、臺北士林人，影視及劇場演員，畢業於臺北市立成淵高級中學、國立臺灣大學戲劇學系。
 
+<br/>
+<br/>
 
 ## 演出作品
 
@@ -578,9 +580,9 @@ type: about
 
 - 其他
   - 【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰
-
-
-
+  
+<br/>
+<br/>
 
 ## 導演作品
 <table class="table table-borderless table-dark">
