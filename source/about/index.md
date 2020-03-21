@@ -10,10 +10,15 @@ type: about
 
 <br/>
 <br/>
+<style>
+.rsp-table { max-width: 100%; width: 100%; overflow-y: auto;}
+.rsp-table table { width: 1256px !important;}
+</style>
 
 ## 演出作品
 
 - 電影
+<div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
     <tr>
@@ -32,9 +37,11 @@ type: about
     </tr> 
   </tbody>
 </table>
+</div>
 
 
 - 影視作品
+<div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
     <tr>
@@ -134,8 +141,10 @@ type: about
     </tr> 
   </tbody>
 </table>
+</div>
 
 - 劇場作品
+<div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
     <tr>
@@ -549,8 +558,10 @@ type: about
     </tr>
   </tbody>
 </table>
+</div>
 
 - MV演出
+<div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
     <tr>
@@ -572,6 +583,7 @@ type: about
     </tr> 
   </tbody>
 </table>
+</div>
 
 - 廣告
   - 2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算~划算~
@@ -580,11 +592,12 @@ type: about
 
 - 其他
   - 【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰
-  
+
 <br/>
 <br/>
 
 ## 導演作品
+<div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
     <tr>
@@ -605,3 +618,4 @@ type: about
     </tr> 
   </tbody>
 </table>
+</div>

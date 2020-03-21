@@ -117,6 +117,12 @@ feed:
 
 # Header
 menu:
-  About: /about
-  Instagram: https://www.instagram.com/yianbau/
-  Facebook: https://www.facebook.com/yianbauofficial/
+  About: 
+    path: /about
+    blank: false
+  Instagram: 
+    path: https://www.instagram.com/yianbau/
+    blank: true
+  Facebook: 
+    path: https://www.facebook.com/yianbauofficial/
+    blank: true
