@@ -551,7 +551,7 @@ type: about
       <th style="text-align: center;vertical-align: middle;">2007</th>
       <td>舞台劇</td>
       <td>台大戲劇系</td>
-      <td>《專程造訪》</td>
+      <td><a href="/2020/03/22/the-visit-2007/">《專程造訪》</a></td>
       <td> </td>
       <td>傅裕惠</td>
       <td>臺大戲劇系學期製作</td>
@@ -573,12 +573,12 @@ type: about
   <tbody>
     <tr>
       <th style="text-align: center;vertical-align: middle;">2015</th>
-      <td>烏鴉</td>
+      <td><a href="/2020/03/22/orangegrass-mv/">烏鴉</a></td>
       <td>橙草</td>
     </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2011</th>
-      <td>向前走</td>
+      <td><a href="/2020/03/22/formosa-carnival/">向前走</a></td>
       <td> </td>
     </tr> 
   </tbody>
@@ -587,11 +587,11 @@ type: about
 
 - 廣告
   - [2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算\~划算\~](/2020/03/22/toyota-2016/)
-  - 2018 DR.WU x 趙又廷 《人生劇場Refresh 第一話》
-  - 2018 DR.WU x 趙又廷 《人生劇場Refresh 最終話》
+  - [2018 DR.WU x 趙又廷 《人生劇場Refresh 第一話》](/2020/03/22/doctor-wu-2018/)
+  - [2018 DR.WU x 趙又廷 《人生劇場Refresh 最終話》](/2020/03/22/doctor-wu-2018/)
 
 - 其他
-  - 【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰
+  - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
 
 <br/>
 <br/>
@@ -612,7 +612,7 @@ type: about
     <tr>
       <th style="text-align: center;vertical-align: middle;">2018</th>
       <td> </td>
-      <td> <a href="https://issuu.com/794816/docs/ilovepdf_merged-ilovepdf-compressed" target="_blank">《樂是美麗分外紅—I POP 到底》</a></td>
+      <td><a href="https://issuu.com/794816/docs/ilovepdf_merged-ilovepdf-compressed" target="_blank">《樂是美麗分外紅—I POP 到底》</a></td>
       <td>導演</td>
       <td> </td>
     </tr> 

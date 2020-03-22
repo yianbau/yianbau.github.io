@@ -1,10 +1,9 @@
 ---
-title: 5年14萬公里延長保固 | TOYOTA
-date: 2020-03-22 01:27:08
-cover_image: images/toyota_2016.png
+title: DR.WU x 趙又廷《人生劇場 Refresh》
+date: 2020-03-22 14:12:18
+cover_image: images/doctor_wu_2018.jpeg
 tags:
 ---
-
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0"></script>
 <style>
@@ -50,7 +49,10 @@ tags:
 <!-- FB/Your embedded video player code -->
 <div class="video-box">
 <div class=block>
-    <div class="fb-video" data-href="https://www.facebook.com/TOYOTA.Taiwan/videos/1028038590599513/" data-width="560" data-show-text="false"></div>
+    <div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2138524149506135/" data-width="560" data-show-text="false"></div>
+    
+</div>
+<div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2147013858657164/" data-width="560" data-show-text="false"></div>
     
 </div>
 </div>
