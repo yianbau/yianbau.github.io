@@ -13,6 +13,7 @@ type: about
 <style>
 .rsp-table { max-width: 100%; width: 100%; overflow-y: auto;}
 .rsp-table table { width: 1256px !important;}
+@media screen and (min-width: 150px) and (max-width: 768px) {.rsp-table table th, .rsp-table table td {white-space: nowrap;}}
 </style>
 
 ## 演出作品
