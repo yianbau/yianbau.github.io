@@ -58,7 +58,7 @@ type: about
     <tr>
       <th style="text-align: center;vertical-align: middle;">2019</th>
       <td>電視劇</td>
-      <td>我們與惡的距離</td>
+      <td><a href="https://www.pts.org.tw/theworld_betweenus/index.html" target="_blank">我們與惡的距離</a></td>
       <td>精神科病友</td>
       <td>林君陽</td>
       <td>第10集</td>
@@ -66,7 +66,7 @@ type: about
     <tr>
       <th style="text-align: center;vertical-align: middle;">2017</th>
       <td>微電影</td>
-      <td>繁花盛開</td>
+      <td><a href="/2020/04/03/blossom-2017/">繁花盛開</a></td>
       <td>扮裝皇后 Drag Queen</td>
       <td>林涵</td>
       <td> </td>
@@ -74,7 +74,7 @@ type: about
     <tr>
       <th style="text-align: center;vertical-align: middle;">2016</th>
       <td>微電影</td>
-      <td>非罐頭人生</td>
+      <td><a href="https://www.viddsee.com/video/not-an-unchangeable-life-of-fun/guydp?locale=zh" target="_blank">非罐頭人生</a></td>
       <td>戴方</td>
       <td>王彥勳</td>
       <td> </td>
@@ -82,15 +82,15 @@ type: about
      <tr>
       <th style="text-align: center;vertical-align: middle;">2014</th>
       <td>電視劇</td>
-      <td>河畔卿卿</td>
+      <td><a href="/2020/04/04/love-by-the-river/">河畔卿卿</a></td>
       <td>吳佳倫</td>
       <td>鄧安寧</td>
-      <td> </td>
+      <td>35~40集</td>
     </tr> 
      <tr>
       <th style="text-align: center;vertical-align: middle;">2013</th>
       <td>短片</td>
-      <td>反烏托邦計劃</td>
+      <td><a href="https://www.youtube.com/watch?v=n1RjzhREBsc" target="_blank">反烏托邦計劃</a></td>
       <td>戴浩仁</td>
       <td>黃嘉誼</td>
       <td> </td>
@@ -98,14 +98,14 @@ type: about
      <tr>
       <th scope="row" rowspan="2" style="text-align: center;vertical-align: middle;">2012</th>
       <td>微電影</td>
-      <td>晤見</td>
+      <td><a href="https://www.youtube.com/watch?v=bbF6vF-8DoU" target="_blank">晤見</a></td>
       <td>家彥</td>
       <td>邱瑞穎</td>
       <td> </td>
     </tr> 
     <tr>
       <td>短片</td>
-      <td>蛹人</td>
+      <td><a href="/2020/04/04/pupae-2012/">蛹人</a></td>
       <td>陳百鳴</td>
       <td>林子軒</td>
       <td>台藝大電影系第97級畢業展</td>
@@ -113,21 +113,21 @@ type: about
      <tr>
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2011</th>
       <td>短片</td>
-      <td>維克的夏天</td>
+      <td><a href="https://www.facebook.com/pg/Sohardfilmfestival/photos/?tab=album&album_id=220103908010591" target="_blank">維克的夏天</a></td>
       <td>維克</td>
       <td> </td>
       <td>大不易影展，由易智言老師指導</td>
     </tr> 
     <tr>
       <td>短片</td>
-      <td>女兒</td>
+      <td><a href="/2020/04/04/daughter-2011/">女兒</a></td>
       <td>黃子豪</td>
       <td>劉任修</td>
       <td>2011年輔仁大學 影像傳播學系第十三屆畢業製作</td>
     </tr> 
      <tr>
       <td>短片</td>
-      <td>打勾勾</td>
+      <td><a href="https://www.youtube.com/watch?v=B0dJtGIVpjM" target="_blank">打勾勾</a></td>
       <td>張天翼</td>
       <td>陳和榆</td>
       <td> </td>
@@ -135,7 +135,7 @@ type: about
     <tr>
       <th style="text-align: center;vertical-align: middle;">2010</th>
       <td>短片</td>
-      <td>第九鏡 9 SHOT</td>
+      <td><a href="https://www.youtube.com/watch?v=GD6Bl2fJqAY" target="_blank">第九鏡 9 SHOT</a></td>
       <td>佑佑</td>
       <td>周心宇</td>
       <td>2011女性影展《身體女人 展演性別》</td>
@@ -160,13 +160,21 @@ type: about
   </thead>
   <tbody>
    <tr>
-      <th scope="row" rowspan="2" style="text-align: center;vertical-align: middle;">2020</th>
+      <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2020</th>
+      <td>舞台劇</td>
+      <td> </td>
+      <td>《Debug-筆電的使用手冊》</td>
+      <td>丹木源</td>
+      <td> </td>
+      <td>因新冠肺炎延期😭</td>
+    </tr> 
+    <tr>
       <td>舞台劇</td>
       <td>盜火劇團</td>
       <td>《幽靈晚餐》</td>
       <td>林文傑</td>
       <td>何應權</td>
-      <td> </td>
+      <td>因新冠肺炎延期😭</td>
     </tr> 
     <tr>
       <td>沉浸式體驗</td>
@@ -188,7 +196,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>動見体劇團</td>
-      <td>《病號》</td>
+      <td><a href="http://www.wuzhenfestival.com/index.php?m=Xijujie&a=teyaojumudetail&cid=57&aid=815" target="_blank">《病號》</a></td>
       <td>弟弟</td>
       <td>符宏征</td>
       <td>2019烏鎮戲劇節特邀劇目</td>
@@ -196,7 +204,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>貪食德工作室</td>
-      <td>《陰間條例x冥戰錄》</td>
+      <td><a href="https://www.hadesapocalypse.com/" target="_blank">《陰間條例x冥戰錄》</a></td>
       <td>包順安/漫畫家</td>
       <td>蘇洋徵</td>
       <td> </td>
@@ -212,7 +220,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>動見体劇團</td>
-      <td>《XY事件簿》</td>
+      <td><a href="https://www.facebook.com/movetheatrefans/posts/10158378816936110?__xts__[0]=68.ARAfsVCMD04hSEU8iFtQ6VfGgH3RTgO2fSGQrHV11LG8-QIXwy7p9zLGENMyNzVPwcTk3ST8jsUC_MMww7HrWKWRX3WbPcJ7H1iG4ISk-Y0DVxbr_u_inNe7MlQeo_7bEV_sFHFQ87jdytFGnfFXt0UlIr-yHYfapLGptG_AWA-J3yJf4pTQWu1_76vK1ZE9xsx5xjSAQ_dDM9UP_TdWUnpGTvKpoznBjwcP0heADc15Jm5Ka47gIho-Y7nejI8DWVuV9hEqZ-m2accy_o5HLAhrcqsac5D3HltGDOolquvXb4LJMxpgf7BYs-NC4trSMDpjCMyUTrbG5WLiqbD2&__tn__=-R" target="_blank">《XY事件簿》</a></td>
       <td>吳念</td>
       <td>王靖惇</td>
       <td> </td>
@@ -245,7 +253,7 @@ type: about
     <tr>
       <td> </td>
       <td>黃/瑞/漢</td>
-      <td>《過站不下的心理時間》</td>
+      <td><a href="https://www.facebook.com/events/281848915873346/" target="_blank">《過站不下的心理時間》</a></td>
       <td>領航員</td>
       <td>黃/瑞/漢</td>
       <td>黃郁晴、周瑞祥、李國漢暨集體創作</td>
@@ -253,7 +261,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>梁允睿X紅潮劇集</td>
-      <td>《瑪莉皇后的禮服》</td>
+      <td><a href="/2020/04/03/the-dress-2018/">《瑪莉皇后的禮服》</a></td>
       <td>正太（裁縫師）</td>
       <td>梁允睿/王靖惇</td>
       <td> </td>
@@ -261,7 +269,7 @@ type: about
     <tr>
       <td>聲音劇場</td>
       <td>再拒劇團</td>
-      <td>《年度考核協奏》</td>
+      <td><a href="https://www.youtube.com/watch?v=IkmHAi94aMs" target="_blank">《年度考核協奏》</a></td>
       <td>樂手表演者</td>
       <td>黃思農</td>
       <td>2018白晝之夜回歸重現</td>
@@ -278,7 +286,7 @@ type: about
       <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2017</th>
       <td>音樂劇</td>
       <td>Be劇團</td>
-      <td>《婚姻倒頭栽》</td>
+      <td><a href="https://mailchi.mp/qq/be9" target="_blank">《婚姻倒頭栽》</a></td>
       <td>程文青</td>
       <td>吳亮澄</td>
       <td>房間小戲9</td>
@@ -360,7 +368,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>台南人劇團</td>
-      <td>《姊夠甜‧那吸》</td>
+      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=255&Itemid=137" target="_blank">《姊夠甜‧那吸》</a></td>
       <td>白蘭琪</td>
       <td>許芃</td>
       <td> </td>
@@ -377,7 +385,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>台南人劇團</td>
-      <td>《浪跡天涯》</td>
+      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=233:2013-08-31-01-48-51&catid=34:2009-10-14-02-46-56&Itemid=93" target="_blank">《浪跡天涯》</a></td>
       <td>Rudy</td>
       <td>鍾翰</td>
       <td>2014春天戲水</td>
@@ -386,7 +394,7 @@ type: about
       <th style="text-align: center;vertical-align: middle;">2013</th>
       <td>舞台劇</td>
       <td>台南人劇團</td>
-      <td>《浪跡天涯》</td>
+      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=233:2013-08-31-01-48-51&catid=34:2009-10-14-02-46-56&Itemid=93" target="_blank">《浪跡天涯》</a></td>
       <td>Rudy</td>
       <td>鍾翰</td>
       <td> </td>
@@ -395,7 +403,7 @@ type: about
       <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2012</th>
       <td>舞台劇</td>
       <td>床編人劇團</td>
-      <td>《我記得，那些世界遺忘的事》</td>
+      <td><a href="https://www.youtube.com/watch?time_continue=11&v=tZgC9fpT8nA&feature=emb_logo" target="_blank">《我記得，那些世界遺忘的事》</a></td>
       <td> </td>
       <td>王又禾</td>
       <td> </td>
@@ -422,7 +430,7 @@ type: about
       <td>《春醒》</td>
       <td>莫里斯</td>
       <td>黃緣文</td>
-      <td>立臺北藝術大學戲劇學院 2012春季公演</td>
+      <td>國立臺北藝術大學戲劇學院 2012春季公演</td>
     </tr> 
     <tr>
       <td>舞台劇</td>
@@ -452,7 +460,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>台南人劇團X瘋戲樂工作室</td>
-      <td>《木蘭少女》</td>
+      <td><a href="/2020/03/24/mulan-2011/">《木蘭少女》</a></td>
       <td>蔡曉齊</td>
       <td>呂柏伸/蔡柏璋</td>
       <td> </td>
@@ -460,7 +468,7 @@ type: about
     <tr>
       <td>影集式舞台劇</td>
       <td>台南人劇團</td>
-      <td>《K24》</td>
+      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=196&Itemid=99" target="_blank">《K24》</a></td>
       <td>Paris/Sara</td>
       <td>呂柏伸/蔡柏璋</td>
       <td>2011年第一季全六集建國百年版</td>
@@ -519,7 +527,7 @@ type: about
       <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2008</th>
       <td>舞台劇</td>
       <td>台大戲劇系</td>
-      <td>《話─Speaking in Tongues》</td>
+      <td><a href="https://www.youtube.com/watch?v=UHJoKOzdvqU" target="_blank">《話─Speaking in Tongues》</a></td>
       <td> </td>
       <td>陳和榆</td>
       <td>臺大戲劇學系第七屆畢業製作</td>
@@ -527,7 +535,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>台大戲劇系</td>
-      <td>《羅密歐與茱麗葉－獸版》</td>
+      <td><a href="http://shakespeare.digital.ntu.edu.tw/shakespeare/view_record_other_file.php?Language=ch&Type=rf&rid=NTU2008ROM019" target="_blank">《羅密歐與茱麗葉－獸版》</a></td>
       <td>羅密歐</td>
       <td>王嘉明</td>
       <td>臺大戲劇系學期製作</td>
@@ -573,6 +581,11 @@ type: about
   </thead>
   <tbody>
     <tr>
+      <th style="text-align: center;vertical-align: middle;">2019</th>
+      <td><a href="https://www.youtube.com/watch?v=aMXLX_aTW3w" target="_blank">算命師</a></td>
+      <td>路嘉欣</td>
+    </tr> 
+    <tr>
       <th style="text-align: center;vertical-align: middle;">2015</th>
       <td><a href="/2020/03/22/orangegrass-mv/">烏鴉</a></td>
       <td>橙草</td>
@@ -593,11 +606,15 @@ type: about
 
 - 其他
   - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
+  - [2017【當我們劇在一起 x 挑戰性別表演講堂】](https://www.facebook.com/tiqff/videos/713728612165531/)
+  - [2016 前叛逆男子《BL系列歡唱會》](https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq)
+  - [2015《新社員unplugged》 精彩花絮](https://www.youtube.com/watch?v=cDIH6x5hf00)
+  
 
 <br/>
 <br/>
 
-## 導演作品
+## 其他作品
 <div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
@@ -610,6 +627,13 @@ type: about
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <th style="text-align: center;vertical-align: middle;">2019</th>
+      <td>耳東劇團</td>
+      <td><a href="https://www.artsticket.com.tw/ckscc2005/product/product00/ProductsDetailsPage.aspx?ProductId=rotyiUrPteQTxx%2FkStyp9Q" target="_blank">《西哈遊記－魔二代再起》</a></td>
+      <td>主演代排</td>
+      <td> </td>
+    </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2018</th>
       <td> </td>
