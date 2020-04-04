@@ -1,25 +1,12 @@
 ---
-title: 《繁花盛開》
-date: 2020-04-03 17:13:03
-cover_image: images/blossom_2017.jpeg
+title: 《槍與．玫瑰》
+date: 2020-04-04 19:58:18
+cover_image: images/gun_rose.jpg
 tags:
 ---
 
-### 演員介紹/扮裝皇后 Drag Queen
-
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0"></script>
-
-<div class="fb-post" data-href="https://www.facebook.com/FANHUASHENGKAfilm/posts/1935719880082993" data-width=" " data-show-text="false"><blockquote cite="https://developers.facebook.com/FANHUASHENGKAfilm/posts/1935719880082993" class="fb-xfbml-parse-ignore"><p>-演員介紹/ 扮裝皇后Drag Queen/ 鮑奕安 -
-
-「劇場演員-鮑奕安，劇場界帥氣小生，
-大家常常喚他：小安，安安。
-
-國立台灣大學戲劇學系第七屆畢業，表演之路深受姚坤君老師啟蒙。
-...</p>由<a href="https://www.facebook.com/FANHUASHENGKAfilm/">繁花盛開 Blossom</a> 發佈於&nbsp;<a href="https://developers.facebook.com/FANHUASHENGKAfilm/posts/1935719880082993">2017年10月20日 星期五</a></blockquote></div>
-
-
-
 <style>
 .video-container {
     position: relative;
@@ -60,13 +47,33 @@ tags:
 @media screen and (min-width: 150px) and (max-width: 768px) {.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }}
 </style>
 
-### 《繁花盛開》預告片
+### 演員專訪 鮑奕安（飾＿李文生） 
+
+<!-- FB/Your embedded video player code -->
+<div class="video-box">
+<div class=block>
+    <div class="fb-video" data-href="https://developers.facebook.com/ThePartyTheatre/videos/931725980355918/" data-width="560" data-show-text="false"></div>
+    
+</div>
+
+
+### 【槍與★玫瑰】關鍵字聯想篇
 
 <div class="video-box">
-<div class='embed-container'>
-    <iframe src='https://www.youtube.com/embed//vSbNXeR4X-Y' width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=block>
+    <div class="fb-video" data-href="https://developers.facebook.com/ThePartyTheatre/videos/265111660775143/" data-width="560" data-show-text="false"></div>
+    
 </div>
+
+
+### 【槍與★玫瑰】世界動物朋友奇妙物語篇 
+
+<div class="video-box">
+<div class=block>
+    <div class="fb-video" data-href="https://developers.facebook.com/ThePartyTheatre/videos/742471272784152/" data-width="560" data-show-text="false"></div>
+    
 </div>
+
 
 
 

@@ -212,7 +212,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>春河劇團</td>
-      <td>《當我們同在一起》</td>
+      <td><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteT3NC3EF8DwXQ&cksccadtype=A" target="_blank">《當我們同在一起》</a></td>
       <td>心靈大師/教官/超商店員/吉他手</td>
       <td>韋以丞</td>
       <td> </td>
@@ -228,7 +228,7 @@ type: about
     <tr>
       <td>沉浸式體驗</td>
       <td>進港浪製作X驚喜製造</td>
-      <td>《微醺大飯店》</td>
+      <td><a href="/2020/04/04/the-great-tipsy/">《微醺大飯店》</a></td>
       <td>Lobby Boy/王子</td>
       <td>洪唯堯</td>
       <td> </td>
@@ -237,7 +237,7 @@ type: about
       <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2018</th>
       <td>兒童劇</td>
       <td>O劇團</td>
-      <td>《再見，茉莉，花》</td>
+      <td><a href="https://www.facebook.com/yianbauofficial/posts/1966114943436341?__xts__[0]=68.ARDOlQigvoJ8ghdsX5nvqAxv4Jj4j5EWZ1MKls7sG1gOlnIbTzF56P3o8uk6DwigVOkfq9dAsBN3AU7UCzm-OR3V02_sQPpsLMrwOQFZeghsdrewmF_kvHXYVHKgxI3OEyR1nPVxf6cazXyHj0-AeWs1uUXa22NiEbI46nJ3_Zb7SNWVhXRnwcX-n1aDjb4Dq8AmKASgQlOvN9ATcaB8PG-7mGNCnpyzorc98AWpNQSWLEm-8KjL5LVWlzfIHAtH_iA_UICPXwtWl6U-rntZDyZGZQJ63o_s9j0E05-B3EGTTzptFJ-r4_79skhoItmwwcGvDjWI4_j9T16N3shGaMJpeJ6K&__tn__=-R" target="_blank">《再見，茉莉，花》</a></td>
       <td>小丑</td>
       <td>陳威宇</td>
       <td> </td>
@@ -245,7 +245,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>同黨劇團</td>
-      <td>《槍與．玫瑰》</td>
+      <td><a href="/2020/04/04/gun-rose/">《槍與．玫瑰》</a></td>
       <td>李文生</td>
       <td>蘇洋徵</td>
       <td> </td>
@@ -302,7 +302,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td> </td>
-      <td>《馬利亞情竇初開》</td>
+      <td><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=hsobWfDDQ3RwSCZ4xN12o" target="_blank">《馬利亞情竇初開》</a></td>
       <td>男同志</td>
       <td>杜思慧/許芃</td>
       <td>由傅裕惠、杜思慧、許芃、王廣耘共同創作</td>
@@ -310,7 +310,7 @@ type: about
     <tr>
       <td>聲音劇場</td>
       <td>再拒劇團</td>
-      <td>《年度考核協奏》</td>
+      <td><a href="https://www.youtube.com/watch?v=IkmHAi94aMs" target="_blank">《年度考核協奏》</a></td>
       <td>樂手表演者</td>
       <td>黃思農</td>
       <td>首演於2017年北美館展覽「社交場」開幕，後受邀至橫濱藝術集會（TPAM）</td>
@@ -334,7 +334,7 @@ type: about
     </tr> 
     <tr>
       <td>影集式劇場</td>
-      <td>呆吧，人＿Silly Café</td>
+      <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
       <td>《呆吧人EP3》</td>
       <td>阿寬</td>
       <td>戴秉彬</td>
@@ -343,7 +343,7 @@ type: about
     <tr>
       <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2015</th>
       <td>影集式劇場</td>
-      <td>呆吧，人＿Silly Café</td>
+      <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
       <td>《呆吧人EP2》</td>
       <td>阿寬</td>
       <td>簡莉穎</td>
@@ -351,7 +351,7 @@ type: about
     </tr> 
     <tr>
       <td>影集式劇場</td>
-      <td>呆吧，人＿Silly Café</td>
+      <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
       <td>《呆吧人EP1》</td>
       <td>阿寬</td>
       <td> </td>
