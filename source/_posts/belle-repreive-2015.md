@@ -1,12 +1,17 @@
 ---
-title: 《槍與．玫瑰》
-date: 2020-04-04 20:58:18
-cover_image: images/gun_rose.jpg
+title: 《姊夠甜‧那吸》
+date: 2020-04-03 09:28:40
+cover_image: images/belle_repreive_2015.jpg
 tags:
 ---
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0"></script>
+
+<a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=255&Itemid=137" target="_blank">臺南人劇團介紹</a>
+
+
+<br/>
+
+
 <style>
 .video-container {
     position: relative;
@@ -47,32 +52,26 @@ tags:
 @media screen and (min-width: 150px) and (max-width: 768px) {.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }}
 </style>
 
-### 演員專訪 鮑奕安（飾＿李文生） 
-
-<!-- FB/Your embedded video player code -->
-<div class="video-box">
-<div class=block>
-    <div class="fb-video" data-href="https://developers.facebook.com/ThePartyTheatre/videos/931725980355918/" data-width="560" data-show-text="false"></div>
-    
-</div>
-
-
-### 【槍與★玫瑰】關鍵字聯想篇
+### 相關宣傳影片
 
 <div class="video-box">
-<div class=block>
-    <div class="fb-video" data-href="https://developers.facebook.com/ThePartyTheatre/videos/265111660775143/" data-width="560" data-show-text="false"></div>
-    
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/ocHhs28kIJY' width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
-### 【槍與★玫瑰】世界動物朋友奇妙物語篇 
+</div>
 
 <div class="video-box">
-<div class=block>
-    <div class="fb-video" data-href="https://developers.facebook.com/ThePartyTheatre/videos/742471272784152/" data-width="560" data-show-text="false"></div>
-    
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/HLaWdlpEjMA' width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-box">
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/M0w-y9ixfHg' width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
 
 
 

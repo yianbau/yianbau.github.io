@@ -82,7 +82,7 @@ type: about
      <tr>
       <th style="text-align: center;vertical-align: middle;">2014</th>
       <td>電視劇</td>
-      <td><a href="/2020/04/04/love-by-the-river/">河畔卿卿</a></td>
+      <td><a href="/2020/03/30/love-by-the-river/">河畔卿卿</a></td>
       <td>吳佳倫</td>
       <td>鄧安寧</td>
       <td>35~40集</td>
@@ -105,7 +105,7 @@ type: about
     </tr> 
     <tr>
       <td>短片</td>
-      <td><a href="/2020/04/04/pupae-2012/">蛹人</a></td>
+      <td><a href="/2020/03/28/pupae-2012/">蛹人</a></td>
       <td>陳百鳴</td>
       <td>林子軒</td>
       <td>台藝大電影系第97級畢業展</td>
@@ -120,7 +120,7 @@ type: about
     </tr> 
     <tr>
       <td>短片</td>
-      <td><a href="/2020/04/04/daughter-2011/">女兒</a></td>
+      <td><a href="/2020/03/22/daughter-2011/">女兒</a></td>
       <td>黃子豪</td>
       <td>劉任修</td>
       <td>2011年輔仁大學 影像傳播學系第十三屆畢業製作</td>
@@ -163,7 +163,7 @@ type: about
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2020</th>
       <td>舞台劇</td>
       <td> </td>
-      <td>《Debug-筆電的使用手冊》</td>
+      <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
       <td>丹木源</td>
       <td> </td>
       <td>因新冠肺炎延期😭</td>
@@ -171,7 +171,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>盜火劇團</td>
-      <td>《幽靈晚餐》</td>
+      <td><a href="/2020/04/05/the-last-dinner/">《幽靈晚餐》</a></td>
       <td>林文傑</td>
       <td>何應權</td>
       <td>因新冠肺炎延期😭</td>
@@ -179,7 +179,7 @@ type: about
     <tr>
       <td>沉浸式體驗</td>
       <td>進港浪製作X驚喜製造</td>
-      <td>《明日俱樂部》</td>
+      <td><a href="/2020/04/05/club-tomorrow/">《明日俱樂部》</a></td>
       <td>艾德</td>
       <td>洪唯堯</td>
       <td> </td>
@@ -188,7 +188,7 @@ type: about
       <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2019</th>
       <td>音樂劇</td>
       <td>前叛逆男子</td>
-      <td>《新社員》</td>
+      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
       <td>安啟凡</td>
       <td>黃緣文</td>
       <td>BL系列Ⅰ 2019四度加演</td>
@@ -228,7 +228,7 @@ type: about
     <tr>
       <td>沉浸式體驗</td>
       <td>進港浪製作X驚喜製造</td>
-      <td><a href="/2020/04/04/the-great-tipsy/">《微醺大飯店》</a></td>
+      <td><a href="/2020/04/05/the-great-tipsy/">《微醺大飯店》</a></td>
       <td>Lobby Boy/王子</td>
       <td>洪唯堯</td>
       <td> </td>
@@ -261,7 +261,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>梁允睿X紅潮劇集</td>
-      <td><a href="/2020/04/03/the-dress-2018/">《瑪莉皇后的禮服》</a></td>
+      <td><a href="/2020/04/04/the-dress-2018/">《瑪莉皇后的禮服》</a></td>
       <td>正太（裁縫師）</td>
       <td>梁允睿/王靖惇</td>
       <td> </td>
@@ -277,7 +277,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>再拒劇團</td>
-      <td>《春醒》</td>
+      <td><a href="/2020/04/05/fruhlings-erwachen/">《春醒》</a></td>
       <td>莫里斯</td>
       <td>黃緣文</td>
       <td> </td>
@@ -294,7 +294,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>再拒劇團</td>
-      <td>《春醒》</td>
+      <td><a href="/2020/04/05/fruhlings-erwachen/">《春醒》</a></td>
       <td>莫里斯</td>
       <td>黃緣文</td>
       <td> </td>
@@ -319,7 +319,7 @@ type: about
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2016</th>
       <td>音樂劇</td>
       <td>前叛逆男子</td>
-      <td>《利維坦2.0》</td>
+      <td><a href="/2020/04/05/leviathan20/">《利維坦2.0》</a></td>
       <td>渡渡鳥</td>
       <td>黃緣文</td>
       <td>BL系列Ⅱ</td>
@@ -327,7 +327,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>前叛逆男子</td>
-      <td>《新社員》</td>
+      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
       <td>安啟凡</td>
       <td>黃緣文</td>
       <td>BL系列Ⅰ 2016衛武營藝術祭-戲劇旗艦</td>
@@ -360,7 +360,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>前叛逆男子</td>
-      <td>《新社員》</td>
+      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
       <td>安啟凡</td>
       <td>黃緣文</td>
       <td>BL系列Ⅰ 2015青春加演</td>
@@ -368,7 +368,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>台南人劇團</td>
-      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=255&Itemid=137" target="_blank">《姊夠甜‧那吸》</a></td>
+      <td><a href="/2020/04/03/belle-repreive-2015">《姊夠甜‧那吸》</a></td>
       <td>白蘭琪</td>
       <td>許芃</td>
       <td> </td>
@@ -377,7 +377,7 @@ type: about
       <th scope="row" rowspan="2" style="text-align: center;vertical-align: middle;">2014</th>
       <td>音樂劇</td>
       <td>前叛逆男子</td>
-      <td>《新社員》</td>
+      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
       <td>安啟凡</td>
       <td>黃緣文</td>
       <td>BL系列Ⅰ 2014首演</td>
@@ -460,7 +460,7 @@ type: about
     <tr>
       <td>音樂劇</td>
       <td>台南人劇團X瘋戲樂工作室</td>
-      <td><a href="/2020/03/24/mulan-2011/">《木蘭少女》</a></td>
+      <td><a href="/2020/04/03/mulan-2011/">《木蘭少女》</a></td>
       <td>蔡曉齊</td>
       <td>呂柏伸/蔡柏璋</td>
       <td> </td>
@@ -587,7 +587,7 @@ type: about
     </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2015</th>
-      <td><a href="/2020/03/22/orangegrass-mv/">烏鴉</a></td>
+      <td><a href="/2020/04/04/orangegrass-mv/">烏鴉</a></td>
       <td>橙草</td>
     </tr> 
     <tr>
@@ -606,9 +606,9 @@ type: about
 
 - 其他
   - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
-  - [2017【當我們劇在一起 x 挑戰性別表演講堂】](https://www.facebook.com/tiqff/videos/713728612165531/)
-  - [2016 前叛逆男子《BL系列歡唱會》](https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq)
-  - [2015《新社員unplugged》 精彩花絮](https://www.youtube.com/watch?v=cDIH6x5hf00)
+  - <a href="https://www.facebook.com/tiqff/videos/713728612165531/" target="_blank">2017【當我們劇在一起 x 挑戰性別表演講堂】</a>
+  - <a href="https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq" target="_blank">2016 前叛逆男子《BL系列歡唱會》</a>
+  - <a href="https://www.youtube.com/watch?v=cDIH6x5hf00" target="_blank">2015《新社員unplugged》 精彩花絮</a>
   
 
 <br/>

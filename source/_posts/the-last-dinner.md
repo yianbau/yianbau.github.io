@@ -1,11 +1,21 @@
 ---
-title: DR.WU x 趙又廷《人生劇場 Refresh》
-date: 2020-03-22 08:12:18
-cover_image: images/doctor_wu_2018.jpeg
+title: 《幽靈晚餐》
+date: 2020-04-05 13:36:24
+cover_image: images/the_last_dinner.jpg
 tags:
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0"></script>
+
+### 相關連結
+
+<a href="https://read.muzikair.com/tw/articles/901a631c-5da9-4b3c-8693-91e32b45b30e" target="_blank">鮑奕安專訪</a>
+<a href="https://www.qaf.org.tw/news.php?act=view&id=35" target="_blank">盜火劇團《幽靈晚餐》：參與是為了脫逃</a>
+<a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=rotyiUrPteR9QaVbvIPWfQ#" target="_blank">《幽靈晚餐》兩廳院售票連結</a>
+
+
+<br/>
+
+
+
 <style>
 .video-container {
     position: relative;
@@ -38,7 +48,7 @@ tags:
 .video-box .fb-video {
     flex: 1 1 560px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .embed-container {
     margin-bottom: 15px;
@@ -46,14 +56,19 @@ tags:
 @media screen and (min-width: 150px) and (max-width: 768px) {.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }}
 </style>
 
-<!-- FB/Your embedded video player code -->
+### 《幽靈晚餐》前導片
+
 <div class="video-box">
-<div class=block>
-    <div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2138524149506135/" data-width="560" data-show-text="false"></div>
-    
-</div>
-<div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2147013858657164/" data-width="560" data-show-text="false"></div>
-    
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed//GIvOj3J7YpA' width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
+
+
+
+
+
+
+ 
+
 

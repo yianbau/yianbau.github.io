@@ -1,6 +1,6 @@
 ---
 title: 【寶島歌舞】第一彈，台北車站「向前走」
-date: 2020-03-22 16:47:16
+date: 2020-03-22 04:47:16
 cover_image: images/formosa_carnival.jpg
 tags:
 ---

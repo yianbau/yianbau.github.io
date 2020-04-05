@@ -1,6 +1,6 @@
 ---
 title: 《蛹人》
-date: 2020-04-04 14:02:21
+date: 2020-03-28 14:02:21
 cover_image: images/pupae_2012.png
 tags:
 ---
