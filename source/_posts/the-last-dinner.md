@@ -9,7 +9,7 @@ tags:
 
 <a href="https://read.muzikair.com/tw/articles/901a631c-5da9-4b3c-8693-91e32b45b30e" target="_blank">鮑奕安專訪</a>
 <a href="https://www.qaf.org.tw/news.php?act=view&id=35" target="_blank">盜火劇團《幽靈晚餐》：參與是為了脫逃</a>
-<a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=rotyiUrPteR9QaVbvIPWfQ#" target="_blank">《幽靈晚餐》兩廳院售票連結</a>
+<a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteQCVUt9CMa9rQ" target="_blank">《幽靈晚餐》兩廳院售票連結</a>
 
 
 <br/>

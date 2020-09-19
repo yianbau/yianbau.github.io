@@ -159,22 +159,46 @@ type: about
     </tr>
   </thead>
   <tbody>
-   <tr>
-      <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2020</th>
-      <td>舞台劇</td>
-      <td> </td>
-      <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
-      <td>丹木源</td>
-      <td> </td>
-      <td>因新冠肺炎延期😭</td>
-    </tr> 
     <tr>
+      <th scope="row" rowspan="7" style="text-align: center;vertical-align: middle;">2020</th>
       <td>舞台劇</td>
       <td>盜火劇團</td>
       <td><a href="/2020/04/05/the-last-dinner/">《幽靈晚餐》</a></td>
       <td>林文傑</td>
       <td>何應權</td>
-      <td>因新冠肺炎延期😭</td>
+      <td>2020臺南藝術節 臺灣首演</td>
+    </tr> 
+    <tr>
+      <td>互動式劇場</td>
+      <td>Good Game好戲製作</td>
+      <td><a href="https://www.tikipoki.com.tw/portfolio/good-game%E5%A5%BD%E6%88%B2%E8%A3%BD%E4%BD%9C%E3%80%8A%E6%AD%A1%E8%BF%8E%E5%85%89%E8%87%A8%E4%B8%BB%E5%BB%9A%E4%B9%8B%E5%AE%B6%E3%80%8B%E4%BA%92%E5%8B%95%E5%BC%8F%E5%8A%87%E5%A0%B4/" target="_blank">《歡迎光臨主廚之家》</a></td>
+      <td>鬼廚師</td>
+      <td>何安妘</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>春河劇團</td>
+      <td><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteQtIXyZ%2fGx5dg" target="_blank">《當我們同在一起》</a></td>
+      <td>心靈大師/教官/超商店員/吉他手</td>
+      <td>韋以丞</td>
+      <td>2020秋．藝術季</td>
+    </tr> 
+    <tr>
+      <td>讀劇</td>
+      <td> </td>
+      <td><a href="https://www.artsticket.com.tw/ckscc2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteSHJinIMgWvG">《藍鯨遊戲》</a></td>
+      <td>范天宇</td>
+      <td> </td>
+      <td>2020新北市音樂劇劇本孵化暨讀劇演出</td>
+    </tr> 
+     <tr>
+      <td>SOLO</td>
+      <td> </td>
+      <td><a href="https://www.facebook.com/Childbirth.birth/posts/3586724521338823" target="_blank">《語謹他奶奶的》</a></td>
+      <td>鮑語謹</td>
+      <td> </td>
+      <td> </td>
     </tr> 
     <tr>
       <td>沉浸式體驗</td>
@@ -183,6 +207,14 @@ type: about
       <td>艾德</td>
       <td>洪唯堯</td>
       <td> </td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td> </td>
+      <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
+      <td>丹木源</td>
+      <td> </td>
+      <td>延期</td>
     </tr> 
     <tr>
       <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2019</th>
@@ -605,6 +637,7 @@ type: about
   - [2018 DR.WU x 趙又廷 《人生劇場Refresh 最終話》](/2020/03/22/doctor-wu-2018/)
 
 - 其他
+  - <a href="https://www.youtube.com/watch?v=Y-kSX5OuxrE" target="_blank">2020 超真實死亡體驗！｜匠紫挑戰</a>
   - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
   - <a href="https://www.facebook.com/tiqff/videos/713728612165531/" target="_blank">2017【當我們劇在一起 x 挑戰性別表演講堂】</a>
   - <a href="https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq" target="_blank">2016 前叛逆男子《BL系列歡唱會》</a>

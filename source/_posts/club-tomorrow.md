@@ -28,6 +28,12 @@ tags:
 
 ### 相關宣傳影片
 
+<div class="video-box">
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/qdWYDslG984' width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0"></script>
 <style>
@@ -76,6 +82,5 @@ tags:
     <div class="fb-video" data-href="https://developers.facebook.com/surpriselabtw/videos/2555730197866444/" data-width="560" data-show-text="false"></div>
     
 </div>
-
 
 
