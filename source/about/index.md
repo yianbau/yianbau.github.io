@@ -641,6 +641,7 @@ type: about
   - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
   - <a href="https://www.facebook.com/tiqff/videos/713728612165531/" target="_blank">2017【當我們劇在一起 x 挑戰性別表演講堂】</a>
   - <a href="https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq" target="_blank">2016 前叛逆男子《BL系列歡唱會》</a>
+  - <a href="https://www.youtube.com/watch?v=TyNReydewKs" target="_blank">Stars in the Theater 來自星星的Li 簡莉穎x唐立淇</a>
   - <a href="https://www.youtube.com/watch?v=cDIH6x5hf00" target="_blank">2015《新社員unplugged》 精彩花絮</a>
   
 
