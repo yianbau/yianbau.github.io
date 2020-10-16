@@ -159,8 +159,17 @@ type: about
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <th scope="row" rowspan="1" style="text-align: center;vertical-align: middle;">2021</th>
+      <td>舞台劇</td>
+      <td>三點水製藝文化</td>
+      <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
+      <td>丹木源</td>
+      <td>徐宏愷</td>
+      <td> </td>
+    </tr> 
     <tr>
-      <th scope="row" rowspan="7" style="text-align: center;vertical-align: middle;">2020</th>
+      <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2020</th>
       <td>舞台劇</td>
       <td>盜火劇團</td>
       <td><a href="/2020/04/05/the-last-dinner/">《幽靈晚餐》</a></td>
@@ -187,7 +196,7 @@ type: about
     <tr>
       <td>讀劇</td>
       <td> </td>
-      <td><a href="https://www.artsticket.com.tw/ckscc2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteSHJinIMgWvG">《藍鯨遊戲》</a></td>
+      <td><a href="https://www.artsticket.com.tw/ckscc2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteSHJinIMgWvG" target="_blank">《藍鯨遊戲》</a></td>
       <td>范天宇</td>
       <td> </td>
       <td>2020新北市音樂劇劇本孵化暨讀劇演出</td>
@@ -207,14 +216,6 @@ type: about
       <td>艾德</td>
       <td>洪唯堯</td>
       <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td> </td>
-      <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
-      <td>丹木源</td>
-      <td> </td>
-      <td>延期</td>
     </tr> 
     <tr>
       <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2019</th>
@@ -406,7 +407,7 @@ type: about
       <td> </td>
     </tr> 
     <tr>
-      <th scope="row" rowspan="2" style="text-align: center;vertical-align: middle;">2014</th>
+      <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2014</th>
       <td>音樂劇</td>
       <td>前叛逆男子</td>
       <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
@@ -421,6 +422,14 @@ type: about
       <td>Rudy</td>
       <td>鍾翰</td>
       <td>2014春天戲水</td>
+    </tr> 
+    <tr>
+      <td>讀劇</td>
+      <td>同黨劇團</td>
+      <td><a href="https://www.facebook.com/TheContemporaryPlayReadingSeries/photos/%E5%B9%B3%E5%B8%B8%E5%BF%83%E6%BC%94%E5%93%A1%E4%BB%8B%E7%B4%B9-%E9%AE%91%E5%A5%95%E5%AE%89-%E5%9C%8B%E7%AB%8B%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%AD%B8%E6%88%B2%E5%8A%87%E5%AD%B8%E7%B3%BB%E7%AC%AC%E4%B8%83%E5%B1%86%E7%95%A2%E6%A5%AD%E4%B8%BB%E4%BF%AE%E8%A1%A8%E6%BC%94%E5%9C%8B%E7%AB%8B%E5%8F%B0%E5%8C%97%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8%E5%8A%87%E5%A0%B4%E8%97%9D%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80%E8%A1%A8%E6%BC%94%E7%B5%84-%E8%BF%91%E5%B9%B4%E8%A1%A8%E6%BC%94%E4%BD%9C%E5%93%81%E5%8F%B0%E5%8D%97%E4%BA%BA%E5%8A%87%E5%9C%98k24-%E6%9C%A8%E8%98%AD%E5%B0%91%E5%A5%B3%E4%BB%81%E4%BF%A1%E5%90%88%E4%BD%9C%E7%A4%BE%E5%B1%B1%E7%BE%8A%E6%88%96%E8%AA%B0%E6%98%AF%E8%98%87/689440434448915/" target="_blank">《平常心》</a></td>
+      <td> </td>
+      <td>邱安忱</td>
+      <td>第二屆當代經典讀劇節</td>
     </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2013</th>
@@ -481,7 +490,7 @@ type: about
       <td> </td>
     </tr>  
     <tr>
-      <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2011</th>
+      <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2011</th>
       <td>舞台劇</td>
       <td>大鳥是一種貂劇團</td>
       <td>《笑的大學》</td>
@@ -503,7 +512,15 @@ type: about
       <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=196&Itemid=99" target="_blank">《K24》</a></td>
       <td>Paris/Sara</td>
       <td>呂柏伸/蔡柏璋</td>
-      <td>2011年第一季全六集建國百年版</td>
+      <td>2011第一季全六集建國百年版</td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>一直社劇團</td>
+      <td><a href="https://www.ptt.cc/bbs/Drama/M.1305998088.A.A45.html" target="_blank">《總圖核爆現場》</a></td>
+      <td> </td>
+      <td> </td>
+      <td>2011臺大藝術季</td>
     </tr> 
     <tr>
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2010</th>
@@ -528,7 +545,7 @@ type: about
       <td>《浪G天涯》</td>
       <td>Max</td>
       <td> </td>
-      <td>2010台大戲劇系暑期劇展</td>
+      <td>2010臺大戲劇系暑期劇展</td>
     </tr> 
     <tr>
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2009</th>
