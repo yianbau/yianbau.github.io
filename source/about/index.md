@@ -160,12 +160,68 @@ type: about
   </thead>
   <tbody>
    <tr>
-      <th scope="row" rowspan="1" style="text-align: center;vertical-align: middle;">2021</th>
+      <th scope="row" rowspan="8" style="text-align: center;vertical-align: middle;">2021</th>
+      <td>情境式喜劇</td>
+      <td> </td>
+      <td><a href="https://www.instagram.com/fitches_sitcom/" target="_blank">《ᖴITᑕᕼEᔕ健貨》</a></td>
+      <td>韓森曼</td>
+      <td>吳子敬、吳璟賢</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>盜火劇團</td>
+      <td><a href="https://www.opentix.life/event/1363492882517516293" target="_blank">《幽靈晚餐》</a></td>
+      <td>林文傑</td>
+      <td>何應權</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>漂鳥演劇社</td>
+      <td><a href="https://www.facebook.com/FlyingBirdsTheatreGroup/posts/1951255315053886" target="_blank">《女誡蓮扇白鸚鵡》</a></td>
+      <td>阿文/英歌</td>
+      <td>游文綺</td>
+      <td>2021桃園鐵玫瑰藝術節</td>
+    </tr> 
+    <tr>
+      <td>新型態展演</td>
+      <td>進港浪製作</td>
+      <td><a href="https://npac-ntch.org/programs/8457" target="_blank">《神不在的小鎮》</a></td>
+      <td>小綠的男朋友</td>
+      <td>洪唯堯</td>
+      <td>2021秋天藝術節：兩廳院製作</td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>動見体</td>
+      <td><a href="https://www.opentix.life/event/1417767957344268290" target="_blank">《想像的孩子》</a></td>
+      <td>哲翔</td>
+      <td>王靖惇</td>
+      <td>2021彰化劇場藝術節PLUS</td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>春河劇團</td>
+      <td><a href="https://www.opentix.life/event/1427858753824534535" target="_blank">《當我們同在一起》</a></td>
+      <td>心靈大師/教官/超商店員/吉他手</td>
+      <td>韋以丞</td>
+      <td>由文化部「藝FUN線上舞臺計畫」補助</td>
+    </tr> 
+    <tr>
       <td>舞台劇</td>
       <td>三點水製藝文化</td>
       <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
       <td>丹木源</td>
       <td>徐宏愷</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>沉浸式體驗</td>
+      <td>進港浪製作X驚喜製造</td>
+      <td><a href="https://www.facebook.com/KINGKONGWAVE/posts/2910503929272026" target="_blank">《微醺大飯店：1980s》</a></td>
+      <td>小魏</td>
+      <td>吳言凜</td>
       <td> </td>
     </tr> 
     <tr>

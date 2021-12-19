@@ -28,7 +28,7 @@ tags:
     margin: 0 !important;
 }
 .block {
-    margin-bottom: 15px;
+    
 }
 .video-box {
     display: flex;
@@ -48,10 +48,7 @@ tags:
 
 <!-- FB/Your embedded video player code -->
 <div class="video-box">
-<div class=block>
-    <div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2138524149506135/" data-width="560" data-show-text="false"></div>
-    
-</div>
+<div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2138524149506135/" data-width="560" data-show-text="false"></div>
 <div class="fb-video" data-href="https://developers.facebook.com/drwu/videos/2147013858657164/" data-width="560" data-show-text="false"></div>
     
 </div>
