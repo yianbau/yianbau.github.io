@@ -100,7 +100,7 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yianbau/yianbau.github.io
+  repo: git@github.com:yianbau/yianbau.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
 
