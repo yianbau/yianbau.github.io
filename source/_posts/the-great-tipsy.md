@@ -122,12 +122,6 @@ tags:
 </style>
 
 <!-- FB/Your embedded video player code -->
-<div class="video-box">
-<div class=block>
-    <div class="fb-video" data-href="https://developers.facebook.com/homehoteldaan/videos/2327727447489947/" data-width="560" data-show-text="false"></div>
-    
-</div>
-
 
 
 

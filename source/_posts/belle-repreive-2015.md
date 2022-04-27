@@ -6,7 +6,7 @@ tags:
 ---
 
 
-<a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=255&Itemid=137" target="_blank">臺南人劇團介紹</a>
+<a href="https://www.tainanerensemble.org/portfolio/%E3%80%8A%E5%A7%8A%E5%A4%A0%E7%94%9C%E2%80%A7%E9%82%A3%E5%90%B8%E3%80%8BBelle%20Repreive?id=42" target="_blank">臺南人劇團介紹</a>
 
 
 <br/>

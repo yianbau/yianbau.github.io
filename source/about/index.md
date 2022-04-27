@@ -6,7 +6,9 @@ type: about
 ---
 # 鮑奕安＿Yian
 
-鮑奕安（英文名：Yian Bau，1987年4月9日），臺灣男演員、臺北士林人，影視及劇場演員，畢業於臺北市立成淵高級中學、國立臺灣大學戲劇學系。
+鮑奕安（英文名：Yian Bau，1987年4月9日）
+國立臺灣大學戲劇學系第七屆畢業。表演之路深受姚坤君老師啟蒙。
+現為專職表演藝術工作者，活躍於臺灣劇場圈。
 
 <br/>
 <br/>
@@ -159,6 +161,47 @@ type: about
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <th scope="row" rowspan="5" style="text-align: center;vertical-align: middle;">2022</th>
+      <td>舞台劇</td>
+      <td>動見体</td>
+      <td><a href="https://www.opentix.life/event/1513767090510802945" target="_blank">《想像的孩子》</a></td>
+      <td>哲翔</td>
+      <td>王靖惇</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>舞台劇</td>
+      <td>盜火劇團</td>
+      <td><a href="https://www.facebook.com/yianbauofficial/posts/398665082264794" target="_blank">《幽靈晚餐》</a></td>
+      <td>林文傑</td>
+      <td>何應權</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>舞台劇</td>
+      <td>僻室</td>
+      <td><a href="https://npac-ntch.org/programs/10213/playbill" target="_blank">《半金屬》</a></td>
+      <td>Kevin</td>
+      <td>吳子敬</td>
+      <td>2021新點子實驗場</td>
+    </tr> 
+    <tr>
+      <td>互動式劇場</td>
+      <td>Good Game好戲製作</td>
+      <td>《歡迎光臨主廚之家》</td>
+      <td>鬼廚師</td>
+      <td>何安妘</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>沉浸式體驗</td>
+      <td>進港浪製作X驚喜製造</td>
+      <td><a href="https://www.surpriselab.com.tw/thegreattipsy/index.html" target="_blank">《微醺大飯店：1980s》</a></td>
+      <td>小魏/葉德福</td>
+      <td>洪唯堯、吳言凜</td>
+      <td>葉德福為四月幾個場次限定版</td>
+    </tr>
    <tr>
       <th scope="row" rowspan="8" style="text-align: center;vertical-align: middle;">2021</th>
       <td>情境式喜劇</td>
@@ -221,7 +264,7 @@ type: about
       <td>進港浪製作X驚喜製造</td>
       <td><a href="https://www.facebook.com/KINGKONGWAVE/posts/2910503929272026" target="_blank">《微醺大飯店：1980s》</a></td>
       <td>小魏</td>
-      <td>吳言凜</td>
+      <td>洪唯堯、吳言凜</td>
       <td> </td>
     </tr> 
     <tr>
@@ -244,7 +287,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>春河劇團</td>
-      <td><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteQtIXyZ%2fGx5dg" target="_blank">《當我們同在一起》</a></td>
+      <td><a href="https://www.spring-river.com.tw/edcontent_d.php?lang=tw&tb=4&id=51" target="_blank">《當我們同在一起》</a></td>
       <td>心靈大師/教官/超商店員/吉他手</td>
       <td>韋以丞</td>
       <td>2020秋．藝術季</td>
@@ -252,7 +295,7 @@ type: about
     <tr>
       <td>讀劇</td>
       <td> </td>
-      <td><a href="https://www.artsticket.com.tw/ckscc2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteSHJinIMgWvG" target="_blank">《藍鯨遊戲》</a></td>
+      <td>《藍鯨遊戲》</td>
       <td>范天宇</td>
       <td> </td>
       <td>2020新北市音樂劇劇本孵化暨讀劇演出</td>
@@ -285,7 +328,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>動見体劇團</td>
-      <td><a href="http://www.wuzhenfestival.com/index.php?m=Xijujie&a=teyaojumudetail&cid=57&aid=815" target="_blank">《病號》</a></td>
+      <td>《病號》</td>
       <td>弟弟</td>
       <td>符宏征</td>
       <td>2019烏鎮戲劇節特邀劇目</td>
@@ -293,7 +336,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>貪食德工作室</td>
-      <td><a href="https://www.hadesapocalypse.com/" target="_blank">《陰間條例x冥戰錄》</a></td>
+      <td><a href="https://ffrontier.kktix.cc/events/f715cd87" target="_blank">《陰間條例x冥戰錄》</a></td>
       <td>包順安/漫畫家</td>
       <td>蘇洋徵</td>
       <td> </td>
@@ -301,7 +344,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>春河劇團</td>
-      <td><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=rotyiUrPteT3NC3EF8DwXQ&cksccadtype=A" target="_blank">《當我們同在一起》</a></td>
+      <td><a href="https://www.spring-river.com.tw/edcontent_d.php?lang=tw&tb=4&id=51" target="_blank">《當我們同在一起》</a></td>
       <td>心靈大師/教官/超商店員/吉他手</td>
       <td>韋以丞</td>
       <td> </td>
@@ -375,7 +418,7 @@ type: about
       <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2017</th>
       <td>音樂劇</td>
       <td>Be劇團</td>
-      <td><a href="https://mailchi.mp/qq/be9" target="_blank">《婚姻倒頭栽》</a></td>
+      <td><a href="https://www.youtube.com/watch?v=pNYbK76AzlU" target="_blank">《婚姻倒頭栽》</a></td>
       <td>程文青</td>
       <td>吳亮澄</td>
       <td>房間小戲9</td>
@@ -391,7 +434,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td> </td>
-      <td><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=hsobWfDDQ3RwSCZ4xN12o" target="_blank">《馬利亞情竇初開》</a></td>
+      <td>《馬利亞情竇初開》</td>
       <td>男同志</td>
       <td>杜思慧/許芃</td>
       <td>由傅裕惠、杜思慧、許芃、王廣耘共同創作</td>
@@ -474,7 +517,7 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>台南人劇團</td>
-      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=233:2013-08-31-01-48-51&catid=34:2009-10-14-02-46-56&Itemid=93" target="_blank">《浪跡天涯》</a></td>
+      <td><a href="https://www.tainanerensemble.org/portfolio/%E3%80%8A%E6%B5%AA%E8%B7%A1%E5%A4%A9%E6%B6%AF%E3%80%8B?id=49" target="_blank">《浪跡天涯》</a></td>
       <td>Rudy</td>
       <td>鍾翰</td>
       <td>2014春天戲水</td>
@@ -491,7 +534,7 @@ type: about
       <th style="text-align: center;vertical-align: middle;">2013</th>
       <td>舞台劇</td>
       <td>台南人劇團</td>
-      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=233:2013-08-31-01-48-51&catid=34:2009-10-14-02-46-56&Itemid=93" target="_blank">《浪跡天涯》</a></td>
+      <td><a href="https://www.tainanerensemble.org/portfolio/%E3%80%8A%E6%B5%AA%E8%B7%A1%E5%A4%A9%E6%B6%AF%E3%80%8BBENT?id=69" target="_blank">《浪跡天涯》</a></td>
       <td>Rudy</td>
       <td>鍾翰</td>
       <td> </td>
@@ -565,7 +608,7 @@ type: about
     <tr>
       <td>影集式舞台劇</td>
       <td>台南人劇團</td>
-      <td><a href="http://tainanerensemble.org/portal/index.php?option=com_content&view=article&id=196&Itemid=99" target="_blank">《K24》</a></td>
+      <td><a href="https://www.tainanerensemble.org/portfolio/%E3%80%8AK24%E3%80%8B%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%89%88?id=79" target="_blank">《K24》</a></td>
       <td>Paris/Sara</td>
       <td>呂柏伸/蔡柏璋</td>
       <td>2011第一季全六集建國百年版</td>
@@ -737,14 +780,14 @@ type: about
    <tr>
       <th style="text-align: center;vertical-align: middle;">2019</th>
       <td>耳東劇團</td>
-      <td><a href="https://www.artsticket.com.tw/ckscc2005/product/product00/ProductsDetailsPage.aspx?ProductId=rotyiUrPteQTxx%2FkStyp9Q" target="_blank">《西哈遊記－魔二代再起》</a></td>
+      <td>《西哈遊記－魔二代再起》</td>
       <td>主演代排</td>
       <td> </td>
     </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2018</th>
       <td> </td>
-      <td><a href="https://issuu.com/794816/docs/ilovepdf_merged-ilovepdf-compressed" target="_blank">《樂是美麗分外紅—I POP 到底》</a></td>
+      <td>《樂是美麗分外紅—I POP 到底》</td>
       <td>導演</td>
       <td> </td>
     </tr> 
