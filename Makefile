@@ -11,8 +11,9 @@ help: ## This help.
 .DEFAULT_GOAL := help
 
 initial: ## initial
-	sudo npm install -g hexo-cli
+	npm install -g hexo-cli@4.2.0
 	npm install
+	git clone https://github.com/sharvaridesai/hexo-theme-edinburgh themes/edinburgh
 
 preview: ## preview
 	hexo server
