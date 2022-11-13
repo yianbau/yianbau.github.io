@@ -12,7 +12,9 @@ help: ## This help.
 
 initial: ## initial
 	npm install -g hexo-cli@4.2.0
-	npm install
+	npm install	
+
+themes: ## add theme
 	git clone https://github.com/sharvaridesai/hexo-theme-edinburgh themes/edinburgh
 
 preview: ## preview
