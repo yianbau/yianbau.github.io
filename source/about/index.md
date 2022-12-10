@@ -162,14 +162,54 @@ type: about
   </thead>
   <tbody>
   <tr>
-      <th scope="row" rowspan="5" style="text-align: center;vertical-align: middle;">2022</th>
+      <th scope="row" rowspan="10" style="text-align: center;vertical-align: middle;">2022</th>
+      <td>互動式劇場</td>
+      <td>Good Game好戲製作</td>
+      <td><a href="https://www.tikipoki.com.tw/portfolio/good-game%E5%A5%BD%E6%88%B2%E8%A3%BD%E4%BD%9C%E3%80%8Afelicita-%E5%A9%9A%E7%A6%AE%E4%BA%8B%E5%8B%99%E6%89%80%E3%80%8B/" target="_blank">《Felicità 婚禮事務所》</a></td>
+      <td>Hans</td>
+      <td>何安妘</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>線上互動體驗</td>
+      <td>溯流劇團</td>
+      <td><a href="https://www.opentix.life/event/1539468271977697288" target="_blank">《理想之城》</a></td>
+      <td>中央</td>
+      <td>陳侑汝</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>LIVE廣播劇</td>
+      <td>黑白文化事業有限公司</td>
+      <td><a href="https://www.tikipoki.com.tw/portfolio/%E5%BD%A9%E8%99%B9%E7%87%A6%E7%88%9B%E4%B9%8B%E5%9C%B0live%E5%BB%A3%E6%92%AD%E5%8A%87/" target="_blank">《彩虹燦爛之地LIVE廣播劇》</a></td>
+      <td>虞希</td>
+      <td>郭霖</td>
+      <td><a href="https://www.youtube.com/watch?v=pI_9DJX2L1Q" target="_blank">《幕間休息-Follow＆Stand By》廣播劇花絮與試聽</a></td>
+    </tr>
+    <tr>
+      <td>沈浸式劇場</td>
+      <td>好人好事製作</td>
+      <td><a href="https://www.facebook.com/4goods.studio/posts/pfbid02pKBgmyNS8pGEmW9ZSq4kEym8B5yntJfKWkEsbi1Woz3ZTJpZvs664r9UTq5uC7eul" target="_blank">《生生不息：一場憑弔的日常練習》</a></td>
+      <td>憑弔者隊長</td>
+      <td>陳履歡</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>戀愛遊戲</td>
+      <td>本劇場</td>
+      <td><a href="https://www.facebook.com/playarts.clab/posts/pfbid02ivBuf8JMRnChYeXNerS9hyiMN8ACTjkk783CjS2RPk5YAVLY6dLMjo81U7ns1VNWl" target="_blank">《空中不自由戀愛作戰①》</a></td>
+      <td>藍光</td>
+      <td> </td>
+      <td>聲音演員</td>
+    </tr>
+    <tr>
       <td>舞台劇</td>
       <td>動見体</td>
       <td><a href="https://www.opentix.life/event/1513767090510802945" target="_blank">《想像的孩子》</a></td>
       <td>哲翔</td>
       <td>王靖惇</td>
       <td> </td>
-    </tr> 
+    </tr>
     <tr>
       <td>舞台劇</td>
       <td>盜火劇團</td>
