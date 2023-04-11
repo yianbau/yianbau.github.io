@@ -115,7 +115,7 @@ type: about
      <tr>
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2011</th>
       <td>短片</td>
-      <td><a href="https://www.facebook.com/pg/Sohardfilmfestival/photos/?tab=album&album_id=220103908010591" target="_blank">維克的夏天</a></td>
+      <td><a href="https://www.facebook.com/media/set/?set=a.220103908010591&type=3" target="_blank">維克的夏天</a></td>
       <td>維克</td>
       <td> </td>
       <td>大不易影展，由易智言老師指導</td>
