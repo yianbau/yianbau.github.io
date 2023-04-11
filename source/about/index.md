@@ -161,6 +161,31 @@ type: about
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2023</th>
+      <td>音樂劇</td>
+      <td>黃韻如畢業製作</td>
+      <td><a href="https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P03TDF8D" target="_blank">《我媽說我借來的命只能用到二十九》</a></td>
+      <td>衰神</td>
+      <td>林聖倫</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>密逃逃脫</td>
+      <td>LoGin密室逃脫</td>
+      <td><a href="https://loginescape.simplybook.asia/v2/?fbclid=IwAR2-ZaUjEaRRZnG1XiPcWhzDi-PYsE1U-N4RfxzCUSeJWHbNtAJ2yDKmLjk#book/service/6/count/1/" target="_blank">《利維德酒吧》</a></td>
+      <td>Louis</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>互動式劇場</td>
+      <td>Good Game好戲製作</td>
+      <td>《Felicità 婚禮事務所》</td>
+      <td>Hans</td>
+      <td>何安妘</td>
+      <td> </td>
+    </tr>
   <tr>
       <th scope="row" rowspan="10" style="text-align: center;vertical-align: middle;">2022</th>
       <td>互動式劇場</td>
@@ -786,6 +811,12 @@ type: about
   </tbody>
 </table>
 </div>
+
+- 訪談節目
+  - <a href="https://www.youtube.com/watch?v=JWxOnGkawuk" target="_blank">【奇點酒吧特別節目】《Debug-筆電的使用手冊-》ft.馬弟、徐浩忠、鮑奕安</a>
+  - <a href="https://www.youtube.com/watch?v=1_p0LcGgmnE" target="_blank">【賈文青無料案內所】2021.EP02-三點水製藝文化《Debug-筆電的使用手冊-》ft.徐宏愷、鮑奕安：漫畫改編的2.5次元跨界BL劇場作品，雪見到底會現場脫到露幾點？</a>
+  - <a href="https://www.youtube.com/watch?v=1ADoU45Zce8" target="_blank">【劇場狂粉的日常】EP99-一切都是上帝的問題：動見体《想像的孩子》ft.王靖惇、鮑奕安</a>
+  - <a href="https://www.youtube.com/watch?v=v2Q0xygVmCA" target="_blank">【INTERCOmパイ 音特乾杯】S2 EP.40《聊過頭的沉浸式劇場》ft.鮑奕安、楊棟清</a>
 
 - 廣告
   - [2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算\~划算\~](/2020/03/22/toyota-2016/)
