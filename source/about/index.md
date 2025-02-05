@@ -273,8 +273,8 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>三點水製藝文化</td>
-      <td><a href="https://www.opentix.life/event/1746795572740759553" target="_blank">《同棲時間》</a>
-      <td> </td>
+      <td><a href="https://www.instagram.com/p/C7G-2D7tMvp/?img_index=1" target="_blank">《同棲時間》</a>
+      <td>Salsa</td>
       <td>王靖惇</td>
       <td> </td>
     </tr>
