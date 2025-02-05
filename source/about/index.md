@@ -103,7 +103,7 @@ type: about
      <tr>
       <th scope="row" rowspan="2" style="text-align: center;vertical-align: middle;">2012</th>
       <td>微電影</td>
-      <td><a href="https://www.youtube.com/watch?v=bbF6vF-8DoU" target="_blank">晤見</a></td>
+      <td><a href="https://www.gagaoolala.com/tc/videos/452/my-day-with-in-laws-2013" target="_blank">晤見</a></td>
       <td>家彥</td>
       <td>邱瑞穎</td>
       <td> </td>
@@ -979,7 +979,7 @@ type: about
 
 - 訪談節目
   - <a href="https://www.youtube.com/watch?v=JWxOnGkawuk" target="_blank">【奇點酒吧特別節目】《Debug-筆電的使用手冊-》ft.馬弟、徐浩忠、鮑奕安</a>
-  - <a href="https://www.youtube.com/watch?v=1_p0LcGgmnE" target="_blank">【賈文青無料案內所】2021.EP02-三點水製藝文化《Debug-筆電的使用手冊-》ft.徐宏愷、鮑奕安：漫畫改編的2.5次元跨界BL劇場作品，雪見到底會現場脫到露幾點？</a>
+  - <a href="https://www.youtube.com/watch?v=6cS7qI24iEg&list=PLEPDQGf4VIsNDSqYbWfJ14F5EvRxmBVTD&index=10" target="_blank">【賈文青無料案內所】2021.EP02-三點水製藝文化《Debug-筆電的使用手冊-》ft.徐宏愷、鮑奕安：漫畫改編的2.5次元跨界BL劇場作品，雪見到底會現場脫到露幾點？</a>
   - <a href="https://www.youtube.com/watch?v=1ADoU45Zce8" target="_blank">【劇場狂粉的日常】EP99-一切都是上帝的問題：動見体《想像的孩子》ft.王靖惇、鮑奕安</a>
   - <a href="https://www.youtube.com/watch?v=v2Q0xygVmCA" target="_blank">【INTERCOmパイ 音特乾杯】S2 EP.40《聊過頭的沉浸式劇場》ft.鮑奕安、楊棟清</a>
 
