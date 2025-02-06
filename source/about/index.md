@@ -489,6 +489,24 @@ type: about
       <td>洪唯堯、吳言凜</td>
       <td> </td>
     </tr> 
+  </tbody>
+</table>
+</div>
+
+<div class="rsp-table">
+<table class="table table-borderless table-dark">
+  <thead>
+    <tr>
+      <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
+      <th scope="col">類型</th>
+      <th scope="col">劇團/製作</th>
+      <th scope="col">劇目</th>
+      <th scope="col">角色</th>
+      <th scope="col">導演</th>
+      <th scope="col">備註</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2020</th>
       <td>舞台劇</td>
@@ -727,6 +745,24 @@ type: about
       <td>許芃</td>
       <td> </td>
     </tr> 
+  </tbody>
+</table>
+</div>
+
+<div class="rsp-table">
+<table class="table table-borderless table-dark">
+  <thead>
+    <tr>
+      <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
+      <th scope="col">類型</th>
+      <th scope="col">劇團/製作</th>
+      <th scope="col">劇目</th>
+      <th scope="col">角色</th>
+      <th scope="col">導演</th>
+      <th scope="col">備註</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2014</th>
       <td>音樂劇</td>
