@@ -35,6 +35,12 @@ type: about
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <th style="text-align: center;vertical-align: middle;">2025</th>
+      <td>《我們意外的勇氣》</td>
+      <td>Gary＆JoJo婚禮的招待人員</td>
+      <td>游紹翔</td>
+    </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2018</th>
       <td>《紅樓夢》 The Story of the Stone</td>
@@ -59,6 +65,28 @@ type: about
     </tr>
   </thead>
   <tbody>
+   <tr>
+   <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2025</th>
+      <td>電視劇</td>
+      <td>親密之海</td>
+      <td>名嘴阿邦</td>
+      <td>呂吉元、蔡柏璋</td>
+      <td>第4集27-33分</td>
+    </tr> 
+    <tr>
+      <td>短片</td>
+      <td><a href="https://www.instagram.com/p/DPjNeCDEnIn/?img_index=3" target="_blank">耳鳴</a></td>
+      <td>特別演出</td>
+      <td>黃洛瑤</td>
+      <td> </td>
+    </tr> 
+    <tr>
+      <td>短片</td>
+      <td><a href="https://www.youtube.com/playlist?list=PLJQpULtSZ1aXgyzcug18hZXYUFFsQe1YX" target="_blank">文具LOVE！</a></td>
+      <td>凱凱</td>
+      <td>許紘源</td>
+      <td>第6-8集</td>
+    </tr> 
     <tr>
       <th style="text-align: center;vertical-align: middle;">2019</th>
       <td>電視劇</td>
@@ -91,7 +119,7 @@ type: about
       <td>鄧安寧</td>
       <td>35~40集</td>
     </tr> 
-     <tr>
+    <tr>
       <th style="text-align: center;vertical-align: middle;">2013</th>
       <td>短片</td>
       <td><a href="https://www.youtube.com/watch?v=n1RjzhREBsc" target="_blank">反烏托邦計劃</a></td>
