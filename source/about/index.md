@@ -165,12 +165,109 @@ type: about
   </thead>
   <tbody>
   <tr>
-      <th scope="row" rowspan="5" style="text-align: center;vertical-align: middle;">2025</th>
+      <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2026</th>
+      <td>舞台劇</td>
+      <td>三點水製藝文化</td>
+      <td>《同棲時間》</td>
+      <td>Salsa</td>
+      <td>王靖惇</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>舞台劇</td>
+      <td>玖喜一生</td>
+      <td><a href="https://www.opentix.life/event/2033756332093878273" target="_blank">《悲劇的誕生》</a>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>  
+    <tr>
+      <td>沉浸式劇場</td>
+      <td>笨蛋工作室</td>
+      <td><a href="https://yesterday-once-more.stupidparticle.com/" target="_blank">《昨日病房》</a>
+      <td>院長</td>
+      <td>蘇洋徵</td>
+      <td> </td>
+    </tr>
+     <tr>
+      <td>互動劇場</td>
+      <td>西瓜皮育樂(股)公司、Miss GAME、Good Game</td>
+      <td>《幻隱光靈：三界》</a>
+      <td>人族-凡兒</td>
+      <td>何安妘</td>
+      <td> </td>
+    </tr>
+    </table>
+</div>
+
+<table class="table table-borderless table-dark">
+  <thead>
+    <tr>
+      <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
+      <th scope="col">類型</th>
+      <th scope="col">劇團/製作</th>
+      <th scope="col">劇目</th>
+      <th scope="col">角色</th>
+      <th scope="col">導演</th>
+      <th scope="col">備註</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <th scope="row" rowspan="11" style="text-align: center;vertical-align: middle;">2025</th>
+      <td>舞台劇</td>
+      <td>玖喜一生</td>
+      <td><a href="https://www.instagram.com/p/DQ9WHL2AaaW/" target="_blank">《躺平夜》</a>
+      <td> </td>
+      <td> </td>
+      <td>台北喜劇節 躺平夜特別企劃</td>
+    </tr>
+     <tr>
+      <td>導覽活動</td>
+      <td>涉岸会社</td>
+      <td><a href="https://www.opentix.life/event/1947513449232384001?srsltid=AfmBOoo0je2PCIxv3QnvBupeP3oA124hIJwbw1WqOyvNICeDFR7ikvzJ" target="_blank">《劇廠製作．產地直送》</a>
+      <td>導演暨製作統籌</td>
+      <td> </td>
+      <td>TPAC排練現場直擊3.0</td>
+    </tr>
+     <tr>
+      <td>舞台劇</td>
+      <td>三點水製藝文化</td>
+      <td><a href="https://www.instagram.com/reels/DNf08s5BiGk/" target="_blank">《同棲時間》</a>
+      <td>Salsa</td>
+      <td>王靖惇</td>
+      <td> </td>
+    </tr>
+     <tr>
+      <td>舞台劇</td>
+      <td>三點水製藝文化</td>
+      <td><a href="https://www.instagram.com/p/DNc__kcROGp/" target="_blank">《啵啵起司》</a>
+      <td>男聊漁港</td>
+      <td>孫自怡</td>
+      <td> </td>
+    </tr>
+     <tr>
+      <td>舞台劇</td>
+      <td>涉岸会社</td>
+      <td><a href="https://archive.ncafroc.org.tw/result?id=eec829f3a0494428a1070f957c792f9d" target="_blank">《至尊大劫案》</a>
+      <td>猴子</td>
+      <td>蘇洋徵</td>
+      <td> </td>
+    </tr>
+     <tr>
+      <td>舞台劇</td>
+      <td>玖喜一生</td>
+      <td><a href="https://www.instagram.com/p/DM-PkMUMxHk/" target="_blank">《週三躺平夜》</a>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+     <tr>
       <td>RPG互動劇場</td>
       <td>貪食德工作室</td>
-      <td><a href="https://www.facebook.com/2014radiodead/posts/%EF%BD%92%EF%BD%90%EF%BD%87%E4%BA%92%E5%8B%95%E5%8A%87%E5%A0%B4%E9%99%B0%E9%96%93%E6%A2%9D%E4%BE%8B%E9%BB%91%E6%B0%B4%E5%9F%8E%E9%9A%8D%E7%AF%87%E4%BD%A0%E6%94%B6%E5%88%B0%E4%BA%86%E4%B8%80%E5%B0%81%E4%BF%A1%E4%BE%86%E4%BF%A1%E8%80%85%E6%98%AF%E4%BD%A0%E7%9A%84%E4%B8%80%E5%80%8B%E6%9C%8B%E5%8F%8B%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%8F%AB%E4%BB%96-%E5%B4%94%E5%A5%BD%E4%BA%8B%E5%B4%94%E5%A5%BD%E4%BA%8B%E5%BE%88%E5%96%9C%E6%AD%A1%E8%92%90%E9%9B%86%E4%B8%80%E4%BA%9B%E7%A8%80%E5%A5%87%E5%8F%A4%E6%80%AA%E7%9A%84%E6%95%85%E4%BA%8B%E8%B7%9F%E4%BD%A0%E5%80%91%E5%88%86%E4%BA%AB%E6%AF%8F%E6%AC%A1%E5%88%86%E4%BA%AB%E4%BB%96%E9%83%BD%E6%9C%83%E5%BC%B7%E8%AA%BF%E9%80%99%E7%B5%95%E5%B0%8D%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B/975653924572941/" target="_blank">《陰間條例：黑水城隍篇》</td>
-      <td> </td>
-      <td> </td>
+      <td><a href="https://www.instagram.com/p/DIaaxyvvoDm/" target="_blank">《陰間條例：黑水城隍篇》</a>
+      <td>肝付良久</td>
+      <td>蘇洋徵</td>
       <td> </td>
     </tr>
     <tr>
@@ -192,8 +289,8 @@ type: about
     <tr>
       <td>舞台劇</td>
       <td>何日君再來劇團</td>
-      <td><a href="https://www.opentix.life/event/1876128422607110145" target="_blank">《在獨角獸消失之前》</a>
-      <td> </td>
+      <td><a href="https://www.instagram.com/p/DG92NLOB8CT/?img_index=1" target="_blank">《在獨角獸消失之前》</a>
+      <td>綏艾倫</td>
       <td>呂俊翰</td>
       <td> </td>
     </tr>
@@ -209,7 +306,7 @@ type: about
       <th scope="row" rowspan="11" style="text-align: center;vertical-align: middle;">2024</th>
       <td>舞台劇</td>
       <td>涉岸会社</td>
-      <td><a href="https://www.instagram.com/shean.kaisha/reel/DDhIvWGBqp7/" target="_blank">《不存在的地方滿地都是愛》</td>
+      <td><a href="https://www.instagram.com/shean.kaisha/reel/DDhIvWGBqp7/" target="_blank">《不存在的地方滿地都是愛》</a>
       <td>Pete/East/Sandrine/Randy/Dave</td>
       <td>陳品蓉</td>
       <td> </td>
@@ -983,59 +1080,6 @@ type: about
 </table>
 </div>
 
-- MV演出
-<div class="rsp-table">
-<table class="table table-borderless table-dark">
-  <thead>
-    <tr>
-      <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
-      <th scope="col">歌曲</th>
-      <th scope="col">歌手</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th style="text-align: center;vertical-align: middle;">2019</th>
-      <td><a href="https://www.youtube.com/watch?v=aMXLX_aTW3w" target="_blank">算命師</a></td>
-      <td>路嘉欣</td>
-    </tr> 
-    <tr>
-      <th style="text-align: center;vertical-align: middle;">2015</th>
-      <td><a href="/2020/04/04/orangegrass-mv/">烏鴉</a></td>
-      <td>橙草</td>
-    </tr> 
-    <tr>
-      <th style="text-align: center;vertical-align: middle;">2011</th>
-      <td><a href="/2020/03/22/formosa-carnival/">向前走</a></td>
-      <td> </td>
-    </tr> 
-  </tbody>
-</table>
-</div>
-
-- 訪談節目
-  - <a href="https://www.youtube.com/watch?v=JWxOnGkawuk" target="_blank">【奇點酒吧特別節目】《Debug-筆電的使用手冊-》ft.馬弟、徐浩忠、鮑奕安</a>
-  - <a href="https://www.youtube.com/watch?v=6cS7qI24iEg&list=PLEPDQGf4VIsNDSqYbWfJ14F5EvRxmBVTD&index=10" target="_blank">【賈文青無料案內所】2021.EP02-三點水製藝文化《Debug-筆電的使用手冊-》ft.徐宏愷、鮑奕安：漫畫改編的2.5次元跨界BL劇場作品，雪見到底會現場脫到露幾點？</a>
-  - <a href="https://www.youtube.com/watch?v=1ADoU45Zce8" target="_blank">【劇場狂粉的日常】EP99-一切都是上帝的問題：動見体《想像的孩子》ft.王靖惇、鮑奕安</a>
-  - <a href="https://www.youtube.com/watch?v=v2Q0xygVmCA" target="_blank">【INTERCOmパイ 音特乾杯】S2 EP.40《聊過頭的沉浸式劇場》ft.鮑奕安、楊棟清</a>
-
-- 廣告
-  - [2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算\~划算\~](/2020/03/22/toyota-2016/)
-  - [2018 DR.WU x 趙又廷 《人生劇場Refresh 第一話》](/2020/03/22/doctor-wu-2018/)
-  - [2018 DR.WU x 趙又廷 《人生劇場Refresh 最終話》](/2020/03/22/doctor-wu-2018/)
-
-- 其他
-  - <a href="https://www.youtube.com/watch?v=Y-kSX5OuxrE" target="_blank">2020 超真實死亡體驗！｜匠紫挑戰</a>
-  - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
-  - <a href="https://www.facebook.com/tiqff/videos/713728612165531/" target="_blank">2017【當我們劇在一起 x 挑戰性別表演講堂】</a>
-  - <a href="https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq" target="_blank">2016 前叛逆男子《BL系列歡唱會》</a>
-  - <a href="https://www.youtube.com/watch?v=TyNReydewKs" target="_blank">Stars in the Theater 來自星星的Li 簡莉穎x唐立淇</a>
-  - <a href="https://www.youtube.com/watch?v=cDIH6x5hf00" target="_blank">2015《新社員unplugged》 精彩花絮</a>
-  
-
-<br/>
-<br/>
-
 ## 其他作品
 <div class="rsp-table">
 <table class="table table-borderless table-dark">
@@ -1066,3 +1110,52 @@ type: about
   </tbody>
 </table>
 </div>
+
+- MV演出
+<div class="rsp-table">
+  <table class="table table-borderless table-dark">
+    <thead>
+      <tr>
+        <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
+        <th scope="col">歌曲</th>
+        <th scope="col">歌手</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th style="text-align: center;vertical-align: middle;">2019</th>
+        <td><a href="https://www.youtube.com/watch?v=aMXLX_aTW3w" target="_blank">算命師</a></td>
+        <td>路嘉欣</td>
+      </tr> 
+      <tr>
+        <th style="text-align: center;vertical-align: middle;">2015</th>
+        <td><a href="/2020/04/04/orangegrass-mv/">烏鴉</a></td>
+        <td>橙草</td>
+      </tr> 
+      <tr>
+        <th style="text-align: center;vertical-align: middle;">2011</th>
+        <td><a href="/2020/03/22/formosa-carnival/">向前走</a></td>
+        <td> </td>
+      </tr> 
+    </tbody>
+  </table>
+</div>
+
+- 訪談節目
+  - <a href="https://www.youtube.com/watch?v=JWxOnGkawuk" target="_blank">【奇點酒吧特別節目】《Debug-筆電的使用手冊-》ft.馬弟、徐浩忠、鮑奕安</a>
+  - <a href="https://www.youtube.com/watch?v=6cS7qI24iEg&list=PLEPDQGf4VIsNDSqYbWfJ14F5EvRxmBVTD&index=10" target="_blank">【賈文青無料案內所】2021.EP02-三點水製藝文化《Debug-筆電的使用手冊-》ft.徐宏愷、鮑奕安：漫畫改編的2.5次元跨界BL劇場作品，雪見到底會現場脫到露幾點？</a>
+  - <a href="https://www.youtube.com/watch?v=1ADoU45Zce8" target="_blank">【劇場狂粉的日常】EP99-一切都是上帝的問題：動見体《想像的孩子》ft.王靖惇、鮑奕安</a>
+  - <a href="https://www.youtube.com/watch?v=v2Q0xygVmCA" target="_blank">【INTERCOmパイ 音特乾杯】S2 EP.40《聊過頭的沉浸式劇場》ft.鮑奕安、楊棟清</a>
+
+- 廣告
+  - [2016 小資族必看-TOYOTA 5年14萬公里延長保固-划算\~划算\~](/2020/03/22/toyota-2016/)
+  - [2018 DR.WU x 趙又廷 《人生劇場Refresh 第一話》](/2020/03/22/doctor-wu-2018/)
+  - [2018 DR.WU x 趙又廷 《人生劇場Refresh 最終話》](/2020/03/22/doctor-wu-2018/)
+
+- 其他
+  - <a href="https://www.youtube.com/watch?v=Y-kSX5OuxrE" target="_blank">2020 超真實死亡體驗！｜匠紫挑戰</a>
+  - [【2019 GCS 春季總冠軍賽】開場表演-混沌大亂鬥前哨戰](/2020/03/22/gcs-2019)
+  - <a href="https://www.facebook.com/tiqff/videos/713728612165531/" target="_blank">2017【當我們劇在一起 x 挑戰性別表演講堂】</a>
+  - <a href="https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq" target="_blank">2016 前叛逆男子《BL系列歡唱會》</a>
+  - <a href="https://www.youtube.com/watch?v=TyNReydewKs" target="_blank">Stars in the Theater 來自星星的Li 簡莉穎x唐立淇</a>
+  - <a href="https://www.youtube.com/watch?v=cDIH6x5hf00" target="_blank">2015《新社員unplugged》 精彩花絮</a>  
