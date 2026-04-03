@@ -45,7 +45,6 @@ type: about
 </table>
 </div>
 
-
 - 影視作品
 <div class="rsp-table">
 <table class="table table-borderless table-dark">
@@ -149,7 +148,7 @@ type: about
 </table>
 </div>
 
-- 劇場作品
+- 劇場作品 
 <div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
@@ -200,652 +199,656 @@ type: about
     </table>
 </div>
 
-<table class="table table-borderless table-dark">
-  <thead>
-    <tr>
-      <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
-      <th scope="col">類型</th>
-      <th scope="col">劇團/製作</th>
-      <th scope="col">劇目</th>
-      <th scope="col">角色</th>
-      <th scope="col">導演</th>
-      <th scope="col">備註</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <th scope="row" rowspan="11" style="text-align: center;vertical-align: middle;">2025</th>
-      <td>舞台劇</td>
-      <td>玖喜一生</td>
-      <td><a href="https://www.instagram.com/p/DQ9WHL2AaaW/" target="_blank">《躺平夜》</a>
-      <td> </td>
-      <td> </td>
-      <td>台北喜劇節 躺平夜特別企劃</td>
-    </tr>
-     <tr>
-      <td>導覽活動</td>
-      <td>涉岸会社</td>
-      <td><a href="https://www.opentix.life/event/1947513449232384001?srsltid=AfmBOoo0je2PCIxv3QnvBupeP3oA124hIJwbw1WqOyvNICeDFR7ikvzJ" target="_blank">《劇廠製作．產地直送》</a>
-      <td>導演暨製作統籌</td>
-      <td> </td>
-      <td>TPAC排練現場直擊3.0</td>
-    </tr>
-     <tr>
-      <td>舞台劇</td>
-      <td>三點水製藝文化</td>
-      <td><a href="https://www.instagram.com/reels/DNf08s5BiGk/" target="_blank">《同棲時間》</a>
-      <td>Salsa</td>
-      <td>王靖惇</td>
-      <td> </td>
-    </tr>
-     <tr>
-      <td>舞台劇</td>
-      <td>三點水製藝文化</td>
-      <td><a href="https://www.instagram.com/p/DNc__kcROGp/" target="_blank">《啵啵起司》</a>
-      <td>男聊漁港</td>
-      <td>孫自怡</td>
-      <td> </td>
-    </tr>
-     <tr>
-      <td>舞台劇</td>
-      <td>涉岸会社</td>
-      <td><a href="https://archive.ncafroc.org.tw/result?id=eec829f3a0494428a1070f957c792f9d" target="_blank">《至尊大劫案》</a>
-      <td>猴子</td>
-      <td>蘇洋徵</td>
-      <td> </td>
-    </tr>
-     <tr>
-      <td>舞台劇</td>
-      <td>玖喜一生</td>
-      <td><a href="https://www.instagram.com/p/DM-PkMUMxHk/" target="_blank">《週三躺平夜》</a>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-     <tr>
-      <td>RPG互動劇場</td>
-      <td>貪食德工作室</td>
-      <td><a href="https://www.instagram.com/p/DIaaxyvvoDm/" target="_blank">《陰間條例：黑水城隍篇》</a>
-      <td>肝付良久</td>
-      <td>蘇洋徵</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>互動劇場</td>
-      <td>西瓜皮育樂(股)公司、Miss GAME、Good Game</td>
-      <td>《幻隱光靈：三界》</a>
-      <td>人族-凡兒</td>
-      <td>何安妘</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>聚思製造端</td>
-      <td><a href="https://thinkersstudio.tw/project/202501-zh" target="_blank">《白兔紅兔》</a>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>何日君再來劇團</td>
-      <td><a href="https://www.instagram.com/p/DG92NLOB8CT/?img_index=1" target="_blank">《在獨角獸消失之前》</a>
-      <td>綏艾倫</td>
-      <td>呂俊翰</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>沉浸式體驗</td>
-      <td>驚喜製造</td>
-      <td>《Flow me to the Dawn 旭日光廊》</a>
-      <td>拍賣師</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  <tr>
-      <th scope="row" rowspan="11" style="text-align: center;vertical-align: middle;">2024</th>
-      <td>舞台劇</td>
-      <td>涉岸会社</td>
-      <td><a href="https://www.instagram.com/shean.kaisha/reel/DDhIvWGBqp7/" target="_blank">《不存在的地方滿地都是愛》</a>
-      <td>Pete/East/Sandrine/Randy/Dave</td>
-      <td>陳品蓉</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>讀劇音樂會</td>
-      <td>老張老趙の實驗樂劇</td>
-      <td>《偷吃？好吃！》3.0進退兩男</td>
-      <td>安安</td>
-      <td>賈玉</td>
-      <td>讀劇匯計畫</td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>盜火劇團</td>
-      <td><a href="https://www.instagram.com/p/DEXNeiqoLfJ/?img_index=1" target="_blank">《誰殺了CiCi？》</td>
-      <td>郭祐</td>
-      <td>陳昶旭</td>
-      <td>2024臺南藝術節</td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>陳家聲工作室</td>
-      <td><a href="https://www.instagram.com/p/DBTTU3qMfqO/?img_index=3" target="_blank">《黃金人生 Crystal》</td>
-      <td>David/歌隊</td>
-      <td>徐宏愷</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>讀劇</td>
-      <td>四喜坊劇集</td>
-      <td><a href="https://www.instagram.com/12angrymen.4c/" target="_blank">《十二怒漢》讀演版</td>
-      <td>No.12</td>
-      <td>呂名堯</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>SOLO</td>
-      <td>涉岸会社</td>
-      <td><a href="https://www.instagram.com/p/C_daW8KBLyj/?img_index=5" target="_blank">《咖哩難祝賀》</td>
-      <td> </td>
-      <td> </td>
-      <td>《涉．香味》第一彈</td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>玖喜一生</td>
-      <td><a href="https://www.instagram.com/p/DC4EHEkIc4f/" target="_blank">《喜劇拍的奇幻漂流》</td>
-      <td> </td>
-      <td>孫自怡</td>
-      <td>五個短篇喜劇</td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>盜火劇團</td>
-      <td>《強迫意念》</td>
-      <td>穿吊嘎的中年男人/牧師</td>
-      <td>何應權</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>三點水製藝文化</td>
-      <td><a href="https://www.instagram.com/p/C7G-2D7tMvp/?img_index=1" target="_blank">《同棲時間》</a>
-      <td>Salsa</td>
-      <td>王靖惇</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>沉浸式體驗</td>
-      <td>驚喜製造x風狗浪</td>
-      <td>《落日月台》</a>
-      <td>彌留世界的漂流者</td>
-      <td>韓婕</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>密逃逃脫</td>
-      <td>LoGin密室逃脫</td>
-      <td><a href="https://loginescape.simplybook.asia/v2/?fbclid=IwAR2-ZaUjEaRRZnG1XiPcWhzDi-PYsE1U-N4RfxzCUSeJWHbNtAJ2yDKmLjk#book/service/6/count/1/" target="_blank">《利維德酒吧》</a></td>
-      <td>Louis</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-   <tr>
-      <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2023</th>
-      <td>舞台劇</td>
-      <td>盜火劇團</td>
-      <td>《幽靈晚餐》</td>
-      <td>林文傑</td>
-      <td>何應權</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>讀劇</td>
-      <td>盜火劇團</td>
-      <td><a href="https://www.facebook.com/voleurdufeu.theatre/posts/pfbid0LCUPqRqJuNaL6eqSU9yPF8Do4NivZihQMhaLUDKnCE1r4cVQxCcUY6L7itWLqvxXl" target="_blank">《強迫意念》</a>
-      <td>穿吊嘎的中年男人/牧師</td>
-      <td>何應權</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>陳家聲工作室x心酸酸工作室</td>
-      <td><a href="https://www.facebook.com/HSIMSUNGSUNG/posts/pfbid02xiGrH77caVNjTTFKWKJR7gmzyP3ZvcHXXqtmfxboYxcCpFzmXuPivv5DL5TAzhAml" target="_blank">《樂園》</a>
-      <td>阿樂</td>
-      <td>徐宏愷</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>音樂劇</td>
-      <td>黃韻如畢業製作</td>
-      <td><a href="https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P03TDF8D" target="_blank">《我媽說我借來的命只能用到二十九》</a>
-      <td>衰神</td>
-      <td>林聖倫</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>密逃逃脫</td>
-      <td>LoGin密室逃脫</td>
-      <td><a href="https://loginescape.simplybook.asia/v2/?fbclid=IwAR2-ZaUjEaRRZnG1XiPcWhzDi-PYsE1U-N4RfxzCUSeJWHbNtAJ2yDKmLjk#book/service/6/count/1/" target="_blank">《利維德酒吧》</a></td>
-      <td>Louis</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>互動式劇場</td>
-      <td>Good Game好戲製作</td>
-      <td>《Felicità 婚禮事務所》</td>
-      <td>Hans</td>
-      <td>何安妘</td>
-      <td> </td>
-    </tr>
-  <tr>
-      <th scope="row" rowspan="10" style="text-align: center;vertical-align: middle;">2022</th>
-      <td>互動式劇場</td>
-      <td>Good Game好戲製作</td>
-      <td><a href="https://www.tikipoki.com.tw/portfolio/good-game%E5%A5%BD%E6%88%B2%E8%A3%BD%E4%BD%9C%E3%80%8Afelicita-%E5%A9%9A%E7%A6%AE%E4%BA%8B%E5%8B%99%E6%89%80%E3%80%8B/" target="_blank">《Felicità 婚禮事務所》</a></td>
-      <td>Hans</td>
-      <td>何安妘</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>線上互動體驗</td>
-      <td>溯流劇團</td>
-      <td><a href="https://www.opentix.life/event/1539468271977697288" target="_blank">《理想之城》</a></td>
-      <td>中央</td>
-      <td>陳侑汝</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>LIVE廣播劇</td>
-      <td>黑白文化事業有限公司</td>
-      <td><a href="https://www.tikipoki.com.tw/portfolio/%E5%BD%A9%E8%99%B9%E7%87%A6%E7%88%9B%E4%B9%8B%E5%9C%B0live%E5%BB%A3%E6%92%AD%E5%8A%87/" target="_blank">《彩虹燦爛之地LIVE廣播劇》</a></td>
-      <td>虞希</td>
-      <td>郭霖</td>
-      <td><a href="https://www.youtube.com/watch?v=pI_9DJX2L1Q" target="_blank">《幕間休息-Follow＆Stand By》廣播劇花絮與試聽</a></td>
-    </tr>
-    <tr>
-      <td>沈浸式劇場</td>
-      <td>好人好事製作</td>
-      <td><a href="https://www.facebook.com/4goods.studio/posts/pfbid02pKBgmyNS8pGEmW9ZSq4kEym8B5yntJfKWkEsbi1Woz3ZTJpZvs664r9UTq5uC7eul" target="_blank">《生生不息：一場憑弔的日常練習》</a></td>
-      <td>憑弔者隊長</td>
-      <td>陳履歡</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>戀愛遊戲</td>
-      <td>本劇場</td>
-      <td><a href="https://www.facebook.com/playarts.clab/posts/pfbid02ivBuf8JMRnChYeXNerS9hyiMN8ACTjkk783CjS2RPk5YAVLY6dLMjo81U7ns1VNWl" target="_blank">《空中不自由戀愛作戰①》</a></td>
-      <td>藍光</td>
-      <td> </td>
-      <td>聲音演員</td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>動見体</td>
-      <td><a href="https://www.opentix.life/event/1513767090510802945" target="_blank">《想像的孩子》</a></td>
-      <td>哲翔</td>
-      <td>王靖惇</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>盜火劇團</td>
-      <td><a href="https://www.facebook.com/yianbauofficial/posts/398665082264794" target="_blank">《幽靈晚餐》</a></td>
-      <td>林文傑</td>
-      <td>何應權</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>舞台劇</td>
-      <td>僻室</td>
-      <td><a href="https://npac-ntch.org/programs/10213/playbill" target="_blank">《半金屬》</a></td>
-      <td>Kevin</td>
-      <td>吳子敬</td>
-      <td>2021新點子實驗場</td>
-    </tr> 
-    <tr>
-      <td>互動式劇場</td>
-      <td>Good Game好戲製作</td>
-      <td>《歡迎光臨主廚之家》</td>
-      <td>鬼廚師</td>
-      <td>何安妘</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>沉浸式體驗</td>
-      <td>進港浪製作X驚喜製造</td>
-      <td><a href="https://www.surpriselab.com.tw/thegreattipsy/index.html" target="_blank">《微醺大飯店：1980s》</a></td>
-      <td>小魏/葉德福</td>
-      <td>洪唯堯、吳言凜</td>
-      <td>葉德福為四月幾個場次限定版</td>
-    </tr>
-   <tr>
-      <th scope="row" rowspan="8" style="text-align: center;vertical-align: middle;">2021</th>
-      <td>情境式喜劇</td>
-      <td> </td>
-      <td><a href="https://www.instagram.com/fitches_sitcom/" target="_blank">《ᖴITᑕᕼEᔕ健貨》</a></td>
-      <td>韓森曼</td>
-      <td>吳子敬、吳璟賢</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>盜火劇團</td>
-      <td><a href="https://www.opentix.life/event/1363492882517516293" target="_blank">《幽靈晚餐》</a></td>
-      <td>林文傑</td>
-      <td>何應權</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>漂鳥演劇社</td>
-      <td><a href="https://www.facebook.com/FlyingBirdsTheatreGroup/posts/1951255315053886" target="_blank">《女誡蓮扇白鸚鵡》</a></td>
-      <td>阿文/英歌</td>
-      <td>游文綺</td>
-      <td>2021桃園鐵玫瑰藝術節</td>
-    </tr> 
-    <tr>
-      <td>新型態展演</td>
-      <td>進港浪製作</td>
-      <td><a href="https://npac-ntch.org/programs/8457" target="_blank">《神不在的小鎮》</a></td>
-      <td>小綠的男朋友</td>
-      <td>洪唯堯</td>
-      <td>2021秋天藝術節：兩廳院製作</td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>動見体</td>
-      <td><a href="https://www.opentix.life/event/1417767957344268290" target="_blank">《想像的孩子》</a></td>
-      <td>哲翔</td>
-      <td>王靖惇</td>
-      <td>2021彰化劇場藝術節PLUS</td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>春河劇團</td>
-      <td><a href="https://www.opentix.life/event/1427858753824534535" target="_blank">《當我們同在一起》</a></td>
-      <td>心靈大師/教官/超商店員/吉他手</td>
-      <td>韋以丞</td>
-      <td>由文化部「藝FUN線上舞臺計畫」補助</td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>三點水製藝文化</td>
-      <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
-      <td>丹木源</td>
-      <td>徐宏愷</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>沉浸式體驗</td>
-      <td>進港浪製作X驚喜製造</td>
-      <td><a href="https://www.facebook.com/KINGKONGWAVE/posts/2910503929272026" target="_blank">《微醺大飯店：1980s》</a></td>
-      <td>小魏</td>
-      <td>洪唯堯、吳言凜</td>
-      <td> </td>
-    </tr> 
-  </tbody>
-</table>
-</div>
-
+- 2021 ~ 2025
 <div class="rsp-table">
-<table class="table table-borderless table-dark">
-  <thead>
-    <tr>
-      <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
-      <th scope="col">類型</th>
-      <th scope="col">劇團/製作</th>
-      <th scope="col">劇目</th>
-      <th scope="col">角色</th>
-      <th scope="col">導演</th>
-      <th scope="col">備註</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2020</th>
-      <td>舞台劇</td>
-      <td>盜火劇團</td>
-      <td><a href="/2020/04/05/the-last-dinner/">《幽靈晚餐》</a></td>
-      <td>林文傑</td>
-      <td>何應權</td>
-      <td>2020臺南藝術節 臺灣首演</td>
-    </tr> 
-    <tr>
-      <td>互動式劇場</td>
-      <td>Good Game好戲製作</td>
-      <td><a href="https://www.tikipoki.com.tw/portfolio/good-game%E5%A5%BD%E6%88%B2%E8%A3%BD%E4%BD%9C%E3%80%8A%E6%AD%A1%E8%BF%8E%E5%85%89%E8%87%A8%E4%B8%BB%E5%BB%9A%E4%B9%8B%E5%AE%B6%E3%80%8B%E4%BA%92%E5%8B%95%E5%BC%8F%E5%8A%87%E5%A0%B4/" target="_blank">《歡迎光臨主廚之家》</a></td>
-      <td>鬼廚師</td>
-      <td>何安妘</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>春河劇團</td>
-      <td><a href="https://www.spring-river.com.tw/edcontent_d.php?lang=tw&tb=4&id=51" target="_blank">《當我們同在一起》</a></td>
-      <td>心靈大師/教官/超商店員/吉他手</td>
-      <td>韋以丞</td>
-      <td>2020秋．藝術季</td>
-    </tr> 
-    <tr>
-      <td>讀劇</td>
-      <td> </td>
-      <td>《藍鯨遊戲》</td>
-      <td>范天宇</td>
-      <td> </td>
-      <td>2020新北市音樂劇劇本孵化暨讀劇演出</td>
-    </tr> 
-     <tr>
-      <td>SOLO</td>
-      <td> </td>
-      <td><a href="https://www.facebook.com/Childbirth.birth/posts/3586724521338823" target="_blank">《語謹他奶奶的》</a></td>
-      <td>鮑語謹</td>
-      <td> </td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>沉浸式體驗</td>
-      <td>進港浪製作X驚喜製造</td>
-      <td><a href="/2020/04/05/club-tomorrow/">《明日俱樂部》</a></td>
-      <td>艾德</td>
-      <td>洪唯堯</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2019</th>
-      <td>音樂劇</td>
-      <td>前叛逆男子</td>
-      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
-      <td>安啟凡</td>
-      <td>黃緣文</td>
-      <td>BL系列Ⅰ 2019四度加演</td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>動見体劇團</td>
-      <td>《病號》</td>
-      <td>弟弟</td>
-      <td>符宏征</td>
-      <td>2019烏鎮戲劇節特邀劇目</td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>貪食德工作室</td>
-      <td><a href="https://ffrontier.kktix.cc/events/f715cd87" target="_blank">《陰間條例x冥戰錄》</a></td>
-      <td>包順安/漫畫家</td>
-      <td>蘇洋徵</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>春河劇團</td>
-      <td><a href="https://www.spring-river.com.tw/edcontent_d.php?lang=tw&tb=4&id=51" target="_blank">《當我們同在一起》</a></td>
-      <td>心靈大師/教官/超商店員/吉他手</td>
-      <td>韋以丞</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>動見体劇團</td>
-      <td><a href="https://www.facebook.com/movetheatrefans/posts/10158378816936110?__xts__[0]=68.ARAfsVCMD04hSEU8iFtQ6VfGgH3RTgO2fSGQrHV11LG8-QIXwy7p9zLGENMyNzVPwcTk3ST8jsUC_MMww7HrWKWRX3WbPcJ7H1iG4ISk-Y0DVxbr_u_inNe7MlQeo_7bEV_sFHFQ87jdytFGnfFXt0UlIr-yHYfapLGptG_AWA-J3yJf4pTQWu1_76vK1ZE9xsx5xjSAQ_dDM9UP_TdWUnpGTvKpoznBjwcP0heADc15Jm5Ka47gIho-Y7nejI8DWVuV9hEqZ-m2accy_o5HLAhrcqsac5D3HltGDOolquvXb4LJMxpgf7BYs-NC4trSMDpjCMyUTrbG5WLiqbD2&__tn__=-R" target="_blank">《XY事件簿》</a></td>
-      <td>吳念</td>
-      <td>王靖惇</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>沉浸式體驗</td>
-      <td>進港浪製作X驚喜製造</td>
-      <td><a href="/2020/04/05/the-great-tipsy/">《微醺大飯店》</a></td>
-      <td>Lobby Boy/王子</td>
-      <td>洪唯堯</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2018</th>
-      <td>兒童劇</td>
-      <td>O劇團</td>
-      <td><a href="https://www.facebook.com/yianbauofficial/posts/1966114943436341?__xts__[0]=68.ARDOlQigvoJ8ghdsX5nvqAxv4Jj4j5EWZ1MKls7sG1gOlnIbTzF56P3o8uk6DwigVOkfq9dAsBN3AU7UCzm-OR3V02_sQPpsLMrwOQFZeghsdrewmF_kvHXYVHKgxI3OEyR1nPVxf6cazXyHj0-AeWs1uUXa22NiEbI46nJ3_Zb7SNWVhXRnwcX-n1aDjb4Dq8AmKASgQlOvN9ATcaB8PG-7mGNCnpyzorc98AWpNQSWLEm-8KjL5LVWlzfIHAtH_iA_UICPXwtWl6U-rntZDyZGZQJ63o_s9j0E05-B3EGTTzptFJ-r4_79skhoItmwwcGvDjWI4_j9T16N3shGaMJpeJ6K&__tn__=-R" target="_blank">《再見，茉莉，花》</a></td>
-      <td>小丑</td>
-      <td>陳威宇</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>同黨劇團</td>
-      <td><a href="/2020/04/04/gun-rose/">《槍與．玫瑰》</a></td>
-      <td>李文生</td>
-      <td>蘇洋徵</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td> </td>
-      <td>黃/瑞/漢</td>
-      <td><a href="https://www.facebook.com/events/281848915873346/" target="_blank">《過站不下的心理時間》</a></td>
-      <td>領航員</td>
-      <td>黃/瑞/漢</td>
-      <td>黃郁晴、周瑞祥、李國漢暨集體創作</td>
-    </tr> 
-    <tr>
-      <td>音樂劇</td>
-      <td>梁允睿X紅潮劇集</td>
-      <td><a href="/2020/04/04/the-dress-2018/">《瑪莉皇后的禮服》</a></td>
-      <td>正太（裁縫師）</td>
-      <td>梁允睿/王靖惇</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>聲音劇場</td>
-      <td>再拒劇團</td>
-      <td><a href="https://www.youtube.com/watch?v=IkmHAi94aMs" target="_blank">《年度考核協奏》</a></td>
-      <td>樂手表演者</td>
-      <td>黃思農</td>
-      <td>2018白晝之夜回歸重現</td>
-    </tr> 
-    <tr>
-      <td>音樂劇</td>
-      <td>再拒劇團</td>
-      <td><a href="/2020/04/05/fruhlings-erwachen/">《春醒》</a></td>
-      <td>莫里斯</td>
-      <td>黃緣文</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2017</th>
-      <td>音樂劇</td>
-      <td>Be劇團</td>
-      <td><a href="https://www.youtube.com/watch?v=pNYbK76AzlU" target="_blank">《婚姻倒頭栽》</a></td>
-      <td>程文青</td>
-      <td>吳亮澄</td>
-      <td>房間小戲9</td>
-    </tr> 
-    <tr>
-      <td>音樂劇</td>
-      <td>再拒劇團</td>
-      <td><a href="/2020/04/05/fruhlings-erwachen/">《春醒》</a></td>
-      <td>莫里斯</td>
-      <td>黃緣文</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td> </td>
-      <td>《馬利亞情竇初開》</td>
-      <td>男同志</td>
-      <td>杜思慧/許芃</td>
-      <td>由傅裕惠、杜思慧、許芃、王廣耘共同創作</td>
-    </tr> 
-    <tr>
-      <td>聲音劇場</td>
-      <td>再拒劇團</td>
-      <td><a href="https://www.youtube.com/watch?v=IkmHAi94aMs" target="_blank">《年度考核協奏》</a></td>
-      <td>樂手表演者</td>
-      <td>黃思農</td>
-      <td>首演於2017年北美館展覽「社交場」開幕，後受邀至橫濱藝術集會（TPAM）</td>
-    </tr> 
-    <tr>
-      <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2016</th>
-      <td>音樂劇</td>
-      <td>前叛逆男子</td>
-      <td><a href="/2020/04/05/leviathan20/">《利維坦2.0》</a></td>
-      <td>渡渡鳥</td>
-      <td>黃緣文</td>
-      <td>BL系列Ⅱ</td>
-    </tr> 
-    <tr>
-      <td>音樂劇</td>
-      <td>前叛逆男子</td>
-      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
-      <td>安啟凡</td>
-      <td>黃緣文</td>
-      <td>BL系列Ⅰ 2016衛武營藝術祭-戲劇旗艦</td>
-    </tr> 
-    <tr>
-      <td>影集式劇場</td>
-      <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
-      <td>《呆吧人EP3》</td>
-      <td>阿寬</td>
-      <td>戴秉彬</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2015</th>
-      <td>影集式劇場</td>
-      <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
-      <td>《呆吧人EP2》</td>
-      <td>阿寬</td>
-      <td>簡莉穎</td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>影集式劇場</td>
-      <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
-      <td>《呆吧人EP1》</td>
-      <td>阿寬</td>
-      <td> </td>
-      <td> </td>
-    </tr> 
-    <tr>
-      <td>音樂劇</td>
-      <td>前叛逆男子</td>
-      <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
-      <td>安啟凡</td>
-      <td>黃緣文</td>
-      <td>BL系列Ⅰ 2015青春加演</td>
-    </tr> 
-    <tr>
-      <td>舞台劇</td>
-      <td>台南人劇團</td>
-      <td><a href="/2020/04/03/belle-repreive-2015">《姊夠甜‧那吸》</a></td>
-      <td>白蘭琪</td>
-      <td>許芃</td>
-      <td> </td>
-    </tr> 
-  </tbody>
-</table>
+  <table class="table table-borderless table-dark">
+    <thead>
+      <tr>
+        <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
+        <th scope="col">類型</th>
+        <th scope="col">劇團/製作</th>
+        <th scope="col">劇目</th>
+        <th scope="col">角色</th>
+        <th scope="col">導演</th>
+        <th scope="col">備註</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="11" style="text-align: center;vertical-align: middle;">2025</th>
+        <td>舞台劇</td>
+        <td>玖喜一生</td>
+        <td><a href="https://www.instagram.com/p/DQ9WHL2AaaW/" target="_blank">《躺平夜》</a>
+        <td> </td>
+        <td> </td>
+        <td>台北喜劇節 躺平夜特別企劃</td>
+      </tr>
+      <tr>
+        <td>導覽活動</td>
+        <td>涉岸会社</td>
+        <td><a href="https://www.opentix.life/event/1947513449232384001?srsltid=AfmBOoo0je2PCIxv3QnvBupeP3oA124hIJwbw1WqOyvNICeDFR7ikvzJ" target="_blank">《劇廠製作．產地直送》</a>
+        <td>導演暨製作統籌</td>
+        <td> </td>
+        <td>TPAC排練現場直擊3.0</td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>三點水製藝文化</td>
+        <td><a href="https://www.instagram.com/reels/DNf08s5BiGk/" target="_blank">《同棲時間》</a>
+        <td>Salsa</td>
+        <td>王靖惇</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>三點水製藝文化</td>
+        <td><a href="https://www.instagram.com/p/DNc__kcROGp/" target="_blank">《啵啵起司》</a>
+        <td>男聊漁港</td>
+        <td>孫自怡</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>涉岸会社</td>
+        <td><a href="https://archive.ncafroc.org.tw/result?id=eec829f3a0494428a1070f957c792f9d" target="_blank">《至尊大劫案》</a>
+        <td>猴子</td>
+        <td>蘇洋徵</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>玖喜一生</td>
+        <td><a href="https://www.instagram.com/p/DM-PkMUMxHk/" target="_blank">《週三躺平夜》</a>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>RPG互動劇場</td>
+        <td>貪食德工作室</td>
+        <td><a href="https://www.instagram.com/p/DIaaxyvvoDm/" target="_blank">《陰間條例：黑水城隍篇》</a>
+        <td>肝付良久</td>
+        <td>蘇洋徵</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>互動劇場</td>
+        <td>西瓜皮育樂(股)公司、Miss GAME、Good Game</td>
+        <td>《幻隱光靈：三界》</a>
+        <td>人族-凡兒</td>
+        <td>何安妘</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>聚思製造端</td>
+        <td><a href="https://thinkersstudio.tw/project/202501-zh" target="_blank">《白兔紅兔》</a>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>何日君再來劇團</td>
+        <td><a href="https://www.instagram.com/p/DG92NLOB8CT/?img_index=1" target="_blank">《在獨角獸消失之前》</a>
+        <td>綏艾倫</td>
+        <td>呂俊翰</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>沉浸式體驗</td>
+        <td>驚喜製造</td>
+        <td>《Flow me to the Dawn 旭日光廊》</a>
+        <td>拍賣師</td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="11" style="text-align: center;vertical-align: middle;">2024</th>
+        <td>舞台劇</td>
+        <td>涉岸会社</td>
+        <td><a href="https://www.instagram.com/shean.kaisha/reel/DDhIvWGBqp7/" target="_blank">《不存在的地方滿地都是愛》</a>
+        <td>Pete/East/Sandrine/Randy/Dave</td>
+        <td>陳品蓉</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>讀劇音樂會</td>
+        <td>老張老趙の實驗樂劇</td>
+        <td>《偷吃？好吃！》3.0進退兩男</td>
+        <td>安安</td>
+        <td>賈玉</td>
+        <td>讀劇匯計畫</td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>盜火劇團</td>
+        <td><a href="https://www.instagram.com/p/DEXNeiqoLfJ/?img_index=1" target="_blank">《誰殺了CiCi？》</td>
+        <td>郭祐</td>
+        <td>陳昶旭</td>
+        <td>2024臺南藝術節</td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>陳家聲工作室</td>
+        <td><a href="https://www.instagram.com/p/DBTTU3qMfqO/?img_index=3" target="_blank">《黃金人生 Crystal》</td>
+        <td>David/歌隊</td>
+        <td>徐宏愷</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>讀劇</td>
+        <td>四喜坊劇集</td>
+        <td><a href="https://www.instagram.com/12angrymen.4c/" target="_blank">《十二怒漢》讀演版</td>
+        <td>No.12</td>
+        <td>呂名堯</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>SOLO</td>
+        <td>涉岸会社</td>
+        <td><a href="https://www.instagram.com/p/C_daW8KBLyj/?img_index=5" target="_blank">《咖哩難祝賀》</td>
+        <td> </td>
+        <td> </td>
+        <td>《涉．香味》第一彈</td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>玖喜一生</td>
+        <td><a href="https://www.instagram.com/p/DC4EHEkIc4f/" target="_blank">《喜劇拍的奇幻漂流》</td>
+        <td> </td>
+        <td>孫自怡</td>
+        <td>五個短篇喜劇</td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>盜火劇團</td>
+        <td>《強迫意念》</td>
+        <td>穿吊嘎的中年男人/牧師</td>
+        <td>何應權</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>三點水製藝文化</td>
+        <td><a href="https://www.instagram.com/p/C7G-2D7tMvp/?img_index=1" target="_blank">《同棲時間》</a>
+        <td>Salsa</td>
+        <td>王靖惇</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>沉浸式體驗</td>
+        <td>驚喜製造x風狗浪</td>
+        <td>《落日月台》</a>
+        <td>彌留世界的漂流者</td>
+        <td>韓婕</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>密逃逃脫</td>
+        <td>LoGin密室逃脫</td>
+        <td><a href="https://loginescape.simplybook.asia/v2/?fbclid=IwAR2-ZaUjEaRRZnG1XiPcWhzDi-PYsE1U-N4RfxzCUSeJWHbNtAJ2yDKmLjk#book/service/6/count/1/" target="_blank">《利維德酒吧》</a></td>
+        <td>Louis</td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2023</th>
+        <td>舞台劇</td>
+        <td>盜火劇團</td>
+        <td>《幽靈晚餐》</td>
+        <td>林文傑</td>
+        <td>何應權</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>讀劇</td>
+        <td>盜火劇團</td>
+        <td><a href="https://www.facebook.com/voleurdufeu.theatre/posts/pfbid0LCUPqRqJuNaL6eqSU9yPF8Do4NivZihQMhaLUDKnCE1r4cVQxCcUY6L7itWLqvxXl" target="_blank">《強迫意念》</a>
+        <td>穿吊嘎的中年男人/牧師</td>
+        <td>何應權</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>陳家聲工作室x心酸酸工作室</td>
+        <td><a href="https://www.facebook.com/HSIMSUNGSUNG/posts/pfbid02xiGrH77caVNjTTFKWKJR7gmzyP3ZvcHXXqtmfxboYxcCpFzmXuPivv5DL5TAzhAml" target="_blank">《樂園》</a>
+        <td>阿樂</td>
+        <td>徐宏愷</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>音樂劇</td>
+        <td>黃韻如畢業製作</td>
+        <td><a href="https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P03TDF8D" target="_blank">《我媽說我借來的命只能用到二十九》</a>
+        <td>衰神</td>
+        <td>林聖倫</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>密逃逃脫</td>
+        <td>LoGin密室逃脫</td>
+        <td><a href="https://loginescape.simplybook.asia/v2/?fbclid=IwAR2-ZaUjEaRRZnG1XiPcWhzDi-PYsE1U-N4RfxzCUSeJWHbNtAJ2yDKmLjk#book/service/6/count/1/" target="_blank">《利維德酒吧》</a></td>
+        <td>Louis</td>
+        <td> </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>互動式劇場</td>
+        <td>Good Game好戲製作</td>
+        <td>《Felicità 婚禮事務所》</td>
+        <td>Hans</td>
+        <td>何安妘</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="10" style="text-align: center;vertical-align: middle;">2022</th>
+        <td>互動式劇場</td>
+        <td>Good Game好戲製作</td>
+        <td><a href="https://www.tikipoki.com.tw/portfolio/good-game%E5%A5%BD%E6%88%B2%E8%A3%BD%E4%BD%9C%E3%80%8Afelicita-%E5%A9%9A%E7%A6%AE%E4%BA%8B%E5%8B%99%E6%89%80%E3%80%8B/" target="_blank">《Felicità 婚禮事務所》</a></td>
+        <td>Hans</td>
+        <td>何安妘</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>線上互動體驗</td>
+        <td>溯流劇團</td>
+        <td><a href="https://www.opentix.life/event/1539468271977697288" target="_blank">《理想之城》</a></td>
+        <td>中央</td>
+        <td>陳侑汝</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>LIVE廣播劇</td>
+        <td>黑白文化事業有限公司</td>
+        <td><a href="https://www.tikipoki.com.tw/portfolio/%E5%BD%A9%E8%99%B9%E7%87%A6%E7%88%9B%E4%B9%8B%E5%9C%B0live%E5%BB%A3%E6%92%AD%E5%8A%87/" target="_blank">《彩虹燦爛之地LIVE廣播劇》</a></td>
+        <td>虞希</td>
+        <td>郭霖</td>
+        <td><a href="https://www.youtube.com/watch?v=pI_9DJX2L1Q" target="_blank">《幕間休息-Follow＆Stand By》廣播劇花絮與試聽</a></td>
+      </tr>
+      <tr>
+        <td>沈浸式劇場</td>
+        <td>好人好事製作</td>
+        <td><a href="https://www.facebook.com/4goods.studio/posts/pfbid02pKBgmyNS8pGEmW9ZSq4kEym8B5yntJfKWkEsbi1Woz3ZTJpZvs664r9UTq5uC7eul" target="_blank">《生生不息：一場憑弔的日常練習》</a></td>
+        <td>憑弔者隊長</td>
+        <td>陳履歡</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>戀愛遊戲</td>
+        <td>本劇場</td>
+        <td><a href="https://www.facebook.com/playarts.clab/posts/pfbid02ivBuf8JMRnChYeXNerS9hyiMN8ACTjkk783CjS2RPk5YAVLY6dLMjo81U7ns1VNWl" target="_blank">《空中不自由戀愛作戰①》</a></td>
+        <td>藍光</td>
+        <td> </td>
+        <td>聲音演員</td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>動見体</td>
+        <td><a href="https://www.opentix.life/event/1513767090510802945" target="_blank">《想像的孩子》</a></td>
+        <td>哲翔</td>
+        <td>王靖惇</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>盜火劇團</td>
+        <td><a href="https://www.facebook.com/yianbauofficial/posts/398665082264794" target="_blank">《幽靈晚餐》</a></td>
+        <td>林文傑</td>
+        <td>何應權</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>舞台劇</td>
+        <td>僻室</td>
+        <td><a href="https://npac-ntch.org/programs/10213/playbill" target="_blank">《半金屬》</a></td>
+        <td>Kevin</td>
+        <td>吳子敬</td>
+        <td>2021新點子實驗場</td>
+      </tr> 
+      <tr>
+        <td>互動式劇場</td>
+        <td>Good Game好戲製作</td>
+        <td>《歡迎光臨主廚之家》</td>
+        <td>鬼廚師</td>
+        <td>何安妘</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>沉浸式體驗</td>
+        <td>進港浪製作X驚喜製造</td>
+        <td><a href="https://www.surpriselab.com.tw/thegreattipsy/index.html" target="_blank">《微醺大飯店：1980s》</a></td>
+        <td>小魏/葉德福</td>
+        <td>洪唯堯、吳言凜</td>
+        <td>葉德福為四月幾個場次限定版</td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="8" style="text-align: center;vertical-align: middle;">2021</th>
+        <td>情境式喜劇</td>
+        <td> </td>
+        <td><a href="https://www.instagram.com/fitches_sitcom/" target="_blank">《ᖴITᑕᕼEᔕ健貨》</a></td>
+        <td>韓森曼</td>
+        <td>吳子敬、吳璟賢</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>盜火劇團</td>
+        <td><a href="https://www.opentix.life/event/1363492882517516293" target="_blank">《幽靈晚餐》</a></td>
+        <td>林文傑</td>
+        <td>何應權</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>漂鳥演劇社</td>
+        <td><a href="https://www.facebook.com/FlyingBirdsTheatreGroup/posts/1951255315053886" target="_blank">《女誡蓮扇白鸚鵡》</a></td>
+        <td>阿文/英歌</td>
+        <td>游文綺</td>
+        <td>2021桃園鐵玫瑰藝術節</td>
+      </tr> 
+      <tr>
+        <td>新型態展演</td>
+        <td>進港浪製作</td>
+        <td><a href="https://npac-ntch.org/programs/8457" target="_blank">《神不在的小鎮》</a></td>
+        <td>小綠的男朋友</td>
+        <td>洪唯堯</td>
+        <td>2021秋天藝術節：兩廳院製作</td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>動見体</td>
+        <td><a href="https://www.opentix.life/event/1417767957344268290" target="_blank">《想像的孩子》</a></td>
+        <td>哲翔</td>
+        <td>王靖惇</td>
+        <td>2021彰化劇場藝術節PLUS</td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>春河劇團</td>
+        <td><a href="https://www.opentix.life/event/1427858753824534535" target="_blank">《當我們同在一起》</a></td>
+        <td>心靈大師/教官/超商店員/吉他手</td>
+        <td>韋以丞</td>
+        <td>由文化部「藝FUN線上舞臺計畫」補助</td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>三點水製藝文化</td>
+        <td><a href="https://www.facebook.com/Debugthestage/" target="_blank">《Debug-筆電的使用手冊》</a></td>
+        <td>丹木源</td>
+        <td>徐宏愷</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>沉浸式體驗</td>
+        <td>進港浪製作X驚喜製造</td>
+        <td><a href="https://www.facebook.com/KINGKONGWAVE/posts/2910503929272026" target="_blank">《微醺大飯店：1980s》</a></td>
+        <td>小魏</td>
+        <td>洪唯堯、吳言凜</td>
+        <td> </td>
+      </tr> 
+      </tbody>
+    </table>
+  </div>
+
+- 2015 ~ 2020
+<div class="rsp-table">
+  <table class="table table-borderless table-dark">
+    <thead>
+      <tr>
+        <th scope="col" style="text-align: center;vertical-align: middle;">年份</th>
+        <th scope="col">類型</th>
+        <th scope="col">劇團/製作</th>
+        <th scope="col">劇目</th>
+        <th scope="col">角色</th>
+        <th scope="col">導演</th>
+        <th scope="col">備註</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2020</th>
+        <td>舞台劇</td>
+        <td>盜火劇團</td>
+        <td><a href="/2020/04/05/the-last-dinner/">《幽靈晚餐》</a></td>
+        <td>林文傑</td>
+        <td>何應權</td>
+        <td>2020臺南藝術節 臺灣首演</td>
+      </tr> 
+      <tr>
+        <td>互動式劇場</td>
+        <td>Good Game好戲製作</td>
+        <td><a href="https://www.tikipoki.com.tw/portfolio/good-game%E5%A5%BD%E6%88%B2%E8%A3%BD%E4%BD%9C%E3%80%8A%E6%AD%A1%E8%BF%8E%E5%85%89%E8%87%A8%E4%B8%BB%E5%BB%9A%E4%B9%8B%E5%AE%B6%E3%80%8B%E4%BA%92%E5%8B%95%E5%BC%8F%E5%8A%87%E5%A0%B4/" target="_blank">《歡迎光臨主廚之家》</a></td>
+        <td>鬼廚師</td>
+        <td>何安妘</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>春河劇團</td>
+        <td><a href="https://www.spring-river.com.tw/edcontent_d.php?lang=tw&tb=4&id=51" target="_blank">《當我們同在一起》</a></td>
+        <td>心靈大師/教官/超商店員/吉他手</td>
+        <td>韋以丞</td>
+        <td>2020秋．藝術季</td>
+      </tr> 
+      <tr>
+        <td>讀劇</td>
+        <td> </td>
+        <td>《藍鯨遊戲》</td>
+        <td>范天宇</td>
+        <td> </td>
+        <td>2020新北市音樂劇劇本孵化暨讀劇演出</td>
+      </tr> 
+      <tr>
+        <td>SOLO</td>
+        <td> </td>
+        <td><a href="https://www.facebook.com/Childbirth.birth/posts/3586724521338823" target="_blank">《語謹他奶奶的》</a></td>
+        <td>鮑語謹</td>
+        <td> </td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>沉浸式體驗</td>
+        <td>進港浪製作X驚喜製造</td>
+        <td><a href="/2020/04/05/club-tomorrow/">《明日俱樂部》</a></td>
+        <td>艾德</td>
+        <td>洪唯堯</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2019</th>
+        <td>音樂劇</td>
+        <td>前叛逆男子</td>
+        <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
+        <td>安啟凡</td>
+        <td>黃緣文</td>
+        <td>BL系列Ⅰ 2019四度加演</td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>動見体劇團</td>
+        <td>《病號》</td>
+        <td>弟弟</td>
+        <td>符宏征</td>
+        <td>2019烏鎮戲劇節特邀劇目</td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>貪食德工作室</td>
+        <td><a href="https://ffrontier.kktix.cc/events/f715cd87" target="_blank">《陰間條例x冥戰錄》</a></td>
+        <td>包順安/漫畫家</td>
+        <td>蘇洋徵</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>春河劇團</td>
+        <td><a href="https://www.spring-river.com.tw/edcontent_d.php?lang=tw&tb=4&id=51" target="_blank">《當我們同在一起》</a></td>
+        <td>心靈大師/教官/超商店員/吉他手</td>
+        <td>韋以丞</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>動見体劇團</td>
+        <td><a href="https://www.facebook.com/movetheatrefans/posts/10158378816936110?__xts__[0]=68.ARAfsVCMD04hSEU8iFtQ6VfGgH3RTgO2fSGQrHV11LG8-QIXwy7p9zLGENMyNzVPwcTk3ST8jsUC_MMww7HrWKWRX3WbPcJ7H1iG4ISk-Y0DVxbr_u_inNe7MlQeo_7bEV_sFHFQ87jdytFGnfFXt0UlIr-yHYfapLGptG_AWA-J3yJf4pTQWu1_76vK1ZE9xsx5xjSAQ_dDM9UP_TdWUnpGTvKpoznBjwcP0heADc15Jm5Ka47gIho-Y7nejI8DWVuV9hEqZ-m2accy_o5HLAhrcqsac5D3HltGDOolquvXb4LJMxpgf7BYs-NC4trSMDpjCMyUTrbG5WLiqbD2&__tn__=-R" target="_blank">《XY事件簿》</a></td>
+        <td>吳念</td>
+        <td>王靖惇</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>沉浸式體驗</td>
+        <td>進港浪製作X驚喜製造</td>
+        <td><a href="/2020/04/05/the-great-tipsy/">《微醺大飯店》</a></td>
+        <td>Lobby Boy/王子</td>
+        <td>洪唯堯</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <th scope="row" rowspan="6" style="text-align: center;vertical-align: middle;">2018</th>
+        <td>兒童劇</td>
+        <td>O劇團</td>
+        <td><a href="https://www.facebook.com/yianbauofficial/posts/1966114943436341?__xts__[0]=68.ARDOlQigvoJ8ghdsX5nvqAxv4Jj4j5EWZ1MKls7sG1gOlnIbTzF56P3o8uk6DwigVOkfq9dAsBN3AU7UCzm-OR3V02_sQPpsLMrwOQFZeghsdrewmF_kvHXYVHKgxI3OEyR1nPVxf6cazXyHj0-AeWs1uUXa22NiEbI46nJ3_Zb7SNWVhXRnwcX-n1aDjb4Dq8AmKASgQlOvN9ATcaB8PG-7mGNCnpyzorc98AWpNQSWLEm-8KjL5LVWlzfIHAtH_iA_UICPXwtWl6U-rntZDyZGZQJ63o_s9j0E05-B3EGTTzptFJ-r4_79skhoItmwwcGvDjWI4_j9T16N3shGaMJpeJ6K&__tn__=-R" target="_blank">《再見，茉莉，花》</a></td>
+        <td>小丑</td>
+        <td>陳威宇</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>同黨劇團</td>
+        <td><a href="/2020/04/04/gun-rose/">《槍與．玫瑰》</a></td>
+        <td>李文生</td>
+        <td>蘇洋徵</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td> </td>
+        <td>黃/瑞/漢</td>
+        <td><a href="https://www.facebook.com/events/281848915873346/" target="_blank">《過站不下的心理時間》</a></td>
+        <td>領航員</td>
+        <td>黃/瑞/漢</td>
+        <td>黃郁晴、周瑞祥、李國漢暨集體創作</td>
+      </tr> 
+      <tr>
+        <td>音樂劇</td>
+        <td>梁允睿X紅潮劇集</td>
+        <td><a href="/2020/04/04/the-dress-2018/">《瑪莉皇后的禮服》</a></td>
+        <td>正太（裁縫師）</td>
+        <td>梁允睿/王靖惇</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>聲音劇場</td>
+        <td>再拒劇團</td>
+        <td><a href="https://www.youtube.com/watch?v=IkmHAi94aMs" target="_blank">《年度考核協奏》</a></td>
+        <td>樂手表演者</td>
+        <td>黃思農</td>
+        <td>2018白晝之夜回歸重現</td>
+      </tr> 
+      <tr>
+        <td>音樂劇</td>
+        <td>再拒劇團</td>
+        <td><a href="/2020/04/05/fruhlings-erwachen/">《春醒》</a></td>
+        <td>莫里斯</td>
+        <td>黃緣文</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2017</th>
+        <td>音樂劇</td>
+        <td>Be劇團</td>
+        <td><a href="https://www.youtube.com/watch?v=pNYbK76AzlU" target="_blank">《婚姻倒頭栽》</a></td>
+        <td>程文青</td>
+        <td>吳亮澄</td>
+        <td>房間小戲9</td>
+      </tr> 
+      <tr>
+        <td>音樂劇</td>
+        <td>再拒劇團</td>
+        <td><a href="/2020/04/05/fruhlings-erwachen/">《春醒》</a></td>
+        <td>莫里斯</td>
+        <td>黃緣文</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td> </td>
+        <td>《馬利亞情竇初開》</td>
+        <td>男同志</td>
+        <td>杜思慧/許芃</td>
+        <td>由傅裕惠、杜思慧、許芃、王廣耘共同創作</td>
+      </tr> 
+      <tr>
+        <td>聲音劇場</td>
+        <td>再拒劇團</td>
+        <td><a href="https://www.youtube.com/watch?v=IkmHAi94aMs" target="_blank">《年度考核協奏》</a></td>
+        <td>樂手表演者</td>
+        <td>黃思農</td>
+        <td>首演於2017年北美館展覽「社交場」開幕，後受邀至橫濱藝術集會（TPAM）</td>
+      </tr> 
+      <tr>
+        <th scope="row" rowspan="3" style="text-align: center;vertical-align: middle;">2016</th>
+        <td>音樂劇</td>
+        <td>前叛逆男子</td>
+        <td><a href="/2020/04/05/leviathan20/">《利維坦2.0》</a></td>
+        <td>渡渡鳥</td>
+        <td>黃緣文</td>
+        <td>BL系列Ⅱ</td>
+      </tr> 
+      <tr>
+        <td>音樂劇</td>
+        <td>前叛逆男子</td>
+        <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
+        <td>安啟凡</td>
+        <td>黃緣文</td>
+        <td>BL系列Ⅰ 2016衛武營藝術祭-戲劇旗艦</td>
+      </tr> 
+      <tr>
+        <td>影集式劇場</td>
+        <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
+        <td>《呆吧人EP3》</td>
+        <td>阿寬</td>
+        <td>戴秉彬</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <th scope="row" rowspan="4" style="text-align: center;vertical-align: middle;">2015</th>
+        <td>影集式劇場</td>
+        <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
+        <td>《呆吧人EP2》</td>
+        <td>阿寬</td>
+        <td>簡莉穎</td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>影集式劇場</td>
+        <td><a href="https://www.facebook.com/taipeiersillycafe/" target="_blank">呆吧，人＿Silly Café</a></td>
+        <td>《呆吧人EP1》</td>
+        <td>阿寬</td>
+        <td> </td>
+        <td> </td>
+      </tr> 
+      <tr>
+        <td>音樂劇</td>
+        <td>前叛逆男子</td>
+        <td><a href="/2020/04/05/the-new-member/">《新社員》</a></td>
+        <td>安啟凡</td>
+        <td>黃緣文</td>
+        <td>BL系列Ⅰ 2015青春加演</td>
+      </tr> 
+      <tr>
+        <td>舞台劇</td>
+        <td>台南人劇團</td>
+        <td><a href="/2020/04/03/belle-repreive-2015">《姊夠甜‧那吸》</a></td>
+        <td>白蘭琪</td>
+        <td>許芃</td>
+        <td> </td>
+      </tr> 
+      </tbody>
+  </table>
 </div>
 
+- 2007 ~ 2014
 <div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
@@ -1081,6 +1084,7 @@ type: about
 </div>
 
 ## 其他作品
+- 非演員作品
 <div class="rsp-table">
 <table class="table table-borderless table-dark">
   <thead>
@@ -1158,4 +1162,4 @@ type: about
   - <a href="https://www.facebook.com/tiqff/videos/713728612165531/" target="_blank">2017【當我們劇在一起 x 挑戰性別表演講堂】</a>
   - <a href="https://www.youtube.com/playlist?list=PLrdOiDZSTLjhS2UuX4c5PzvV69FqK_giq" target="_blank">2016 前叛逆男子《BL系列歡唱會》</a>
   - <a href="https://www.youtube.com/watch?v=TyNReydewKs" target="_blank">Stars in the Theater 來自星星的Li 簡莉穎x唐立淇</a>
-  - <a href="https://www.youtube.com/watch?v=cDIH6x5hf00" target="_blank">2015《新社員unplugged》 精彩花絮</a>  
+  - <a href="https://www.youtube.com/watch?v=cDIH6x5hf00" target="_blank">2015《新社員unplugged》 精彩花絮</a>
