@@ -13,7 +13,7 @@ timezone: 'Asia/Taipei'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yian.github.io
+url: https://yianbau.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -100,7 +100,7 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:yianbau/yianbau.github.io.git
+  repo: https://github.com/yianbau/yianbau.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
 
@@ -114,6 +114,9 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+sitemap:
+  path: sitemap.xml
 
 # Header
 menu:

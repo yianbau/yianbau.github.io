@@ -12,6 +12,14 @@
   %>
   <title><%= title.join(' - ') %></title>
 
+  <% 
+    var canonical = page && page.path ? url_for(page.path) : '/';
+    if (!/^https?:\/\//.test(canonical)) {
+      canonical = config.url.replace(/\/$/, '') + canonical;
+    }
+  %>
+  <link rel="canonical" href="<%= canonical %>">
+
   <!--Favicon-->
   <link rel="icon" href="favicon/favicon.ico">
 

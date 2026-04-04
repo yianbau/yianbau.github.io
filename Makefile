@@ -11,17 +11,36 @@ help: ## This help.
 .DEFAULT_GOAL := help
 
 initial: ## initial
-	npm install -g hexo-cli@4.2.0
-	npm install	
+	npm ci
 
 themes: ## add theme
 	git clone https://github.com/sharvaridesai/hexo-theme-edinburgh themes/edinburgh
 
+check-env: ## validate Node/Hexo environment
+	npm run check:env
+
+snapshot-baseline: ## update playwright visual and dom baseline
+	npm run snapshot:baseline
+
+verify-ui: ## run playwright visual and dom regression checks
+	npm run verify:ui
+
 preview: ## preview
-	hexo server
+	npm run check:env
+	npm run server
 
 generate: ## generate
-	hexo clean && hexo g
+	npm ci
+	npm run check:env
+	npm run clean
+	npm run build
+	npm run verify:build
 
 deploy: ## deploy
-	hexo clean && hexo deploy
+	npm ci
+	npm run check:env
+	npm run clean
+	npm run build
+	npm run verify:build
+	npm run verify:ui
+	npm run deploy
